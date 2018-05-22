@@ -1,0 +1,1 @@
+C:\RobotSoccer_Unity5.0.4\FooProject\obj\Debug\Assembly-CSharp-Editor.csprojResolveAssemblyReference.cache

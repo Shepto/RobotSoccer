@@ -1,0 +1,2 @@
+C:\RobotSoccer_Unity5.0.4\FooProject\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Dropbox\Thesis Files 2017\SourceCodes\RobotSoccer_Unity5.0.4_v2\FooProject\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache

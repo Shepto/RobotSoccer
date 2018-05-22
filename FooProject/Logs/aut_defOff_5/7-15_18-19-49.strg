@@ -1,0 +1,300 @@
+
+.Rule	1 o offensiveM
+.Mine	4,2  4,3  2,2  2,3
+.Oppnt	4,2  4,3  5,1  5,4
+.Ball	4,2
+.Move	5,2  5,3  2,2  3,3
+
+.Rule	2 o offensiveM
+.Mine	5,2  5,3  2,2  3,3
+.Oppnt	5,2  5,3  5,1  5,4
+.Ball	5,2
+.Move	6,2  5,3  2,2  3,3
+
+.Rule	3 o offensiveM
+.Mine	6,2  5,3  2,2  3,3
+.Oppnt	5,2  5,3  5,1  5,4
+.Ball	6,2
+.Move	6,2  5,3  2,2  3,3
+
+.Rule	4 o offensiveL
+.Mine	3,2  3,3  3,1  2,3
+.Oppnt	4,1  4,2  5,1  5,3
+.Ball	3,1
+.Move	4,2  3,2  4,1  3,3
+
+.Rule	5 o offensiveL
+.Mine	4,2  3,2  4,1  3,3
+.Oppnt	4,1  4,2  5,1  5,3
+.Ball	4,1
+.Move	5,2  4,2  5,1  3,3
+
+.Rule	6 o offensiveL
+.Mine	5,2  4,2  5,1  3,3
+.Oppnt	4,1  5,2  5,1  5,3
+.Ball	5,1
+.Move	5,2  4,3  5,1  3,2
+
+.Rule	7 o offensiveL
+.Mine	5,2  4,3  5,1  3,2
+.Oppnt	4,1  5,2  5,2  5,3
+.Ball	5,2
+.Move	6,2  5,3  5,1  3,2
+
+.Rule	8 o offensiveL
+.Mine	6,2  5,3  5,1  3,2
+.Oppnt	4,2  5,2  6,2  5,3
+.Ball	6,2
+.Move	6,2  5,3  5,1  3,2
+
+.Rule	9 d defensiveL
+.Mine	3,1  3,3  2,1  2,2
+.Oppnt	3,1  3,2  5,2  4,3
+.Ball	3,1
+.Move	2,1  2,3  1,1  2,2
+
+.Rule	10 d defensiveL
+.Mine	2,1  2,3  1,1  2,2
+.Oppnt	2,1  2,2  4,2  3,3
+.Ball	2,1
+.Move	2,2  1,3  1,2  2,3
+
+.Rule	11 d defensiveL
+.Mine	2,2  1,3  1,2  2,3
+.Oppnt	1,2  2,2  4,2  2,3
+.Ball	1,2
+.Move	2,2  1,3  1,2  2,3
+
+.Rule	12 d AdaptedDef
+.Mine	3,2  4,2  6,2  2,3
+.Oppnt	6,1  2,4  5,1  5,2
+.Ball	1,4
+.Move	3,2  4,2  1,4  1,4
+
+.Rule	13 d AdaptedDef
+.Mine	3,2  4,2  6,2  1,3
+.Oppnt	6,1  1,3  5,2  5,2
+.Ball	1,3
+.Move	3,2  4,2  1,3  1,3
+
+.Rule	14 d AdaptedDef
+.Mine	3,2  5,1  6,2  2,3
+.Oppnt	6,1  1,3  5,1  5,2
+.Ball	1,3
+.Move	3,2  5,1  1,3  1,3
+
+.Rule	16 o AdaptedOff
+.Mine	2,2  6,3  5,3  3,3
+.Oppnt	6,3  5,2  5,3  4,3
+.Ball	6,3
+.Move	2,2  6,3  6,2  3,3
+
+.Rule	16 o AdaptedOff
+.Mine	3,1  5,3  6,2  3,3
+.Oppnt	2,2  5,2  6,3  5,3
+.Ball	3,1
+.Move	3,1  6,3  6,2  3,3
+
+.Rule	17 o AdaptedOff
+.Mine	4,2  5,3  6,2  3,3
+.Oppnt	2,2  6,2  6,3  5,3
+.Ball	4,2
+.Move	4,2  6,3  6,2  3,3
+
+.Rule	18 o AdaptedOff
+.Mine	5,2  5,3  6,2  3,3
+.Oppnt	3,2  6,2  6,3  5,3
+.Ball	5,3
+.Move	5,2  6,3  6,2  3,3
+
+.Rule	19 o AdaptedOff
+.Mine	2,2  5,1  6,2  3,3
+.Oppnt	5,2  6,1  6,3  5,3
+.Ball	5,1
+.Move	2,2  5,1  6,3  6,2
+
+.Rule	21 o AdaptedOff
+.Mine	2,2  6,1  6,2  3,3
+.Oppnt	5,2  6,1  6,3  5,3
+.Ball	6,1
+.Move	2,2  6,1  6,3  6,2
+
+.Rule	21 o AdaptedOff
+.Mine	4,1  4,4  3,2  3,3
+.Oppnt	5,2  4,4  5,2  5,3
+.Ball	4,4
+.Move	6,2  6,3  3,2  3,3
+
+.Rule	22 o AdaptedOff
+.Mine	5,1  4,4  2,2  3,3
+.Oppnt	6,3  4,4  5,2  5,3
+.Ball	5,4
+.Move	6,3  6,2  2,2  3,3
+
+.Rule	23 o AdaptedOff
+.Mine	6,2  6,3  4,2  3,3
+.Oppnt	5,3  3,3  2,2  2,3
+.Ball	3,3
+.Move	6,2  6,3  4,2  3,3
+
+.Rule	24 o AdaptedOff
+.Mine	6,2  6,3  4,2  3,3
+.Oppnt	5,3  3,3  2,2  1,3
+.Ball	4,2
+.Move	6,2  6,3  4,2  3,3
+
+.Rule	25 o AdaptedOff
+.Mine	5,2  6,3  4,2  3,3
+.Oppnt	5,3  4,3  3,2  2,3
+.Ball	5,2
+.Move	6,2  6,3  4,2  3,3
+
+.Rule	26 o AdaptedOff
+.Mine	6,2  2,1  5,3  3,1
+.Oppnt	1,1  6,3  6,2  5,3
+.Ball	2,1
+.Move	6,3  2,1  6,2  3,1
+
+.Rule	27 o AdaptedOff
+.Mine	6,2  3,1  5,3  3,1
+.Oppnt	2,1  6,3  6,2  5,3
+.Ball	3,1
+.Move	6,3  3,1  6,2  3,1
+
+.Rule	28 o AdaptedOff
+.Mine	1,2  1,3  2,2  4,4
+.Oppnt	4,2  2,1  1,2  4,4
+.Ball	4,4
+.Move	1,2  6,2  2,2  6,3
+
+.Rule	29 o AdaptedOff
+.Mine	1,2  1,3  2,2  5,4
+.Oppnt	4,2  2,1  1,2  5,4
+.Ball	5,4
+.Move	1,2  6,2  2,2  6,3
+
+.Rule	30 o AdaptedOff
+.Mine	1,2  2,3  2,2  6,4
+.Oppnt	4,2  2,2  1,2  6,3
+.Ball	6,3
+.Move	1,2  6,2  2,2  6,3
+
+.Rule	31 o AdaptedOff
+.Mine	6,3  5,2  3,1  3,1
+.Oppnt	2,2  4,3  5,1  2,1
+.Ball	5,2
+.Move	6,3  6,2  3,1  3,1
+
+.Rule	32 o AdaptedOff
+.Mine	6,3  4,2  3,1  3,1
+.Oppnt	2,2  4,3  4,1  2,1
+.Ball	4,3
+.Move	6,3  6,2  3,1  3,1
+
+.Rule	33 o AdaptedOff
+.Mine	6,3  5,3  3,1  3,1
+.Oppnt	2,2  5,3  3,2  2,1
+.Ball	5,3
+.Move	6,3  6,2  3,1  3,1
+
+.Rule	34 o AdaptedOff
+.Mine	6,2  4,4  4,2  6,3
+.Oppnt	5,2  3,3  3,3  5,4
+.Ball	5,4
+.Move	6,2  4,4  4,2  6,3
+
+.Rule	35 o AdaptedOff
+.Mine	6,2  5,4  3,2  6,3
+.Oppnt	5,2  4,3  4,3  5,4
+.Ball	5,4
+.Move	6,2  5,4  3,2  6,3
+
+.Rule	38 o AdaptedOff
+.Mine	6,1  3,3  3,1  6,3
+.Oppnt	3,1  4,3  5,3  6,2
+.Ball	6,1
+.Move	6,2  3,3  3,1  6,3
+
+.Rule	38 o AdaptedOff
+.Mine	3,1  6,2  3,1  5,3
+.Oppnt	6,2  4,4  3,2  6,3
+.Ball	5,4
+.Move	3,1  6,3  3,1  6,2
+
+.Rule	40 d AdaptedDef
+.Mine	3,1  6,2  3,1  3,3
+.Oppnt	5,2  2,3  4,2  5,3
+.Ball	1,2
+.Move	3,1  6,2  1,2  1,2
+
+.Rule	39 o AdaptedOff
+.Mine	2,2  2,4  5,2  5,3
+.Oppnt	5,3  3,3  3,2  3,3
+.Ball	3,4
+.Move	2,2  6,3  5,2  6,2
+
+.Rule	40 o AdaptedOff
+.Mine	1,2  3,1  6,2  3,3
+.Oppnt	3,4  3,3  2,2  5,3
+.Ball	4,3
+.Move	1,2  3,1  6,3  6,2
+
+.Rule	41 o AdaptedOff
+.Mine	1,2  3,1  6,2  4,3
+.Oppnt	2,3  3,3  2,2  5,3
+.Ball	4,3
+.Move	1,2  3,1  6,3  6,2
+
+.Rule	42 o AdaptedOff
+.Mine	2,1  3,1  6,2  5,2
+.Oppnt	1,3  3,3  2,2  5,2
+.Ball	5,2
+.Move	2,1  3,1  6,3  6,2
+
+.Rule	45 o AdaptedOff
+.Mine	3,3  6,3  6,2  5,4
+.Oppnt	5,2  5,4  4,3  6,3
+.Ball	6,4
+.Move	3,3  6,3  6,2  6,2
+
+.Rule	46 o AdaptedOff
+.Mine	1,2  5,2  2,2  1,3
+.Oppnt	5,2  2,2  2,1  2,3
+.Ball	6,2
+.Move	1,2  6,3  6,2  1,3
+
+.Rule	45 d AdaptedDef
+.Mine	3,2  5,1  1,4  1,3
+.Oppnt	4,2  5,3  5,1  1,4
+.Ball	1,4
+.Move	3,2  5,1  1,4  1,4
+
+.Rule	46 d AdaptedDef
+.Mine	4,2  5,2  1,3  2,2
+.Oppnt	3,3  5,3  4,2  1,3
+.Ball	1,3
+.Move	4,2  5,2  1,3  1,3
+
+.Rule	47 d AdaptedDef
+.Mine	3,2  6,2  1,3  1,2
+.Oppnt	3,3  5,3  3,1  1,3
+.Ball	1,3
+.Move	3,2  6,2  1,3  1,3
+
+.Rule	48 o AdaptedOff
+.Mine	2,1  3,2  4,2  2,3
+.Oppnt	4,3  2,3  3,1  5,2
+.Ball	4,1
+.Move	2,1  6,2  6,3  2,3
+
+.Rule	50 o AdaptedOff
+.Mine	4,1  6,3  6,2  3,1
+.Oppnt	5,3  6,3  6,2  5,1
+.Ball	6,1
+.Move	4,1  6,3  6,2  3,1
+
+.Rule	51 o AdaptedOff
+.Mine	3,1  6,3  6,2  3,1
+.Oppnt	5,3  6,3  6,2  6,1
+.Ball	6,2
+.Move	3,1  6,3  6,2  3,1

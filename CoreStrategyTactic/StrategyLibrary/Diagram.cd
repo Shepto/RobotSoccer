@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="StrategyLibrary.GridRule" Collapsed="true">
+    <Position X="6.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAgAACgIAAQKCEAEAAAAQAgAAFAAAAAQAAAAAAAIA=</HashCode>
+      <FileName>SG.GridRule.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="ball" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="mine" />
+      <Field Name="oppnt" />
+      <Field Name="move" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="StrategyLibrary.Strategy" Collapsed="true">
+    <Position X="3.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACACAEAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SG.Strategy.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="gStrategy" />
+      <Field Name="gameSetting" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="StrategyLibrary.GridStrategy" Collapsed="true">
+    <Position X="6.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgQCACKAAAAAhCAEgIAAIYQAACEEAAIJAgAAAQYAAgA=</HashCode>
+      <FileName>SG.GridStrategy.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="size" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="rules" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="StrategyLibrary.LeftPlayerStrategy" Collapsed="true">
+    <Position X="2.5" Y="3" Width="1.5" />
+    <AssociationLine Name="currentRule" Type="StrategyLibrary.GridRule" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.094" Y="3.63" />
+        <Point X="3.094" Y="6.125" />
+        <Point X="6.75" Y="6.125" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>ACAAAAQEAAAEAAAQAAAAAAAAQAAAgEAEAAAAAAACAAA=</HashCode>
+      <FileName>SG.LeftPlayerStrategy.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="currentRule" />
+      <Field Name="tactic" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="StrategyLibrary.RightPlayerStrategy" Collapsed="true">
+    <Position X="4.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAQEAAAEAAAQAAAAAAAAQAAAgEAEAAAAAAACAAA=</HashCode>
+      <FileName>SG.RightPlayerStrategy.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="currentRule" />
+      <Field Name="tactic" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Core.GameSetting" Collapsed="true">
+    <Position X="1" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Core.Vector2D" Collapsed="true">
+    <Position X="7.5" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="RobotSoccerSimulator.StrategyGenerator.TacticChooser" Collapsed="true">
+    <Position X="3.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

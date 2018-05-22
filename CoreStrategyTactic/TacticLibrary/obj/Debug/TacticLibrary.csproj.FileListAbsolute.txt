@@ -1,0 +1,106 @@
+D:\VSB\BAKALARKA\v1\TacticLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\VSB\BAKALARKA\v1\TacticLibrary\bin\Debug\TacticLibrary.dll
+D:\VSB\BAKALARKA\v1\TacticLibrary\bin\Debug\TacticLibrary.pdb
+D:\VSB\BAKALARKA\v1\TacticLibrary\bin\Debug\Core.dll
+D:\VSB\BAKALARKA\v1\TacticLibrary\bin\Debug\Core.pdb
+D:\VSB\BAKALARKA\v1\TacticLibrary\obj\Debug\TacticLibrary.dll
+D:\VSB\BAKALARKA\v1\TacticLibrary\obj\Debug\TacticLibrary.pdb
+C:\Users\sva162\Desktop\v1\TacticLibrary\bin\Debug\TacticLibrary.dll
+C:\Users\sva162\Desktop\v1\TacticLibrary\bin\Debug\TacticLibrary.pdb
+C:\Users\sva162\Desktop\v1\TacticLibrary\bin\Debug\Core.dll
+C:\Users\sva162\Desktop\v1\TacticLibrary\bin\Debug\Core.pdb
+C:\Users\sva162\Desktop\v1\TacticLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sva162\Desktop\v1\TacticLibrary\obj\Debug\TacticLibrary.dll
+C:\Users\sva162\Desktop\v1\TacticLibrary\obj\Debug\TacticLibrary.pdb
+D:\TeamFoundationServer\Robots\2D Simulator\v1\TacticLibrary\bin\Debug\TacticLibrary.dll
+D:\TeamFoundationServer\Robots\2D Simulator\v1\TacticLibrary\bin\Debug\TacticLibrary.pdb
+D:\TeamFoundationServer\Robots\2D Simulator\v1\TacticLibrary\bin\Debug\Core.dll
+D:\TeamFoundationServer\Robots\2D Simulator\v1\TacticLibrary\bin\Debug\Core.pdb
+D:\TeamFoundationServer\Robots\2D Simulator\v1\TacticLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\TeamFoundationServer\Robots\2D Simulator\v1\TacticLibrary\obj\Debug\TacticLibrary.dll
+D:\TeamFoundationServer\Robots\2D Simulator\v1\TacticLibrary\obj\Debug\TacticLibrary.pdb
+D:\TeamFoundationServer\Robots\2D Simulator\v2\TacticLibrary\bin\Debug\TacticLibrary.dll
+D:\TeamFoundationServer\Robots\2D Simulator\v2\TacticLibrary\bin\Debug\TacticLibrary.pdb
+D:\TeamFoundationServer\Robots\2D Simulator\v2\TacticLibrary\bin\Debug\Core.dll
+D:\TeamFoundationServer\Robots\2D Simulator\v2\TacticLibrary\bin\Debug\Core.pdb
+D:\TeamFoundationServer\Robots\2D Simulator\v2\TacticLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\TeamFoundationServer\Robots\2D Simulator\v2\TacticLibrary\obj\Debug\TacticLibrary.dll
+D:\TeamFoundationServer\Robots\2D Simulator\v2\TacticLibrary\obj\Debug\TacticLibrary.pdb
+D:\TeamFoundationServer\Robots\2D Simulator\2D Simulator - Trunk\TacticLibrary\bin\Debug\TacticLibrary.dll
+D:\TeamFoundationServer\Robots\2D Simulator\2D Simulator - Trunk\TacticLibrary\bin\Debug\TacticLibrary.pdb
+D:\TeamFoundationServer\Robots\2D Simulator\2D Simulator - Trunk\TacticLibrary\bin\Debug\Core.dll
+D:\TeamFoundationServer\Robots\2D Simulator\2D Simulator - Trunk\TacticLibrary\bin\Debug\Core.pdb
+D:\TeamFoundationServer\Robots\2D Simulator\2D Simulator - Trunk\TacticLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\TeamFoundationServer\Robots\2D Simulator\2D Simulator - Trunk\TacticLibrary\obj\Debug\TacticLibrary.dll
+D:\TeamFoundationServer\Robots\2D Simulator\2D Simulator - Trunk\TacticLibrary\obj\Debug\TacticLibrary.pdb
+C:\Users\S@intHe\Desktop\2D Simulator - Branch\TacticLibrary\bin\Debug\TacticLibrary.dll
+C:\Users\S@intHe\Desktop\2D Simulator - Branch\TacticLibrary\bin\Debug\TacticLibrary.pdb
+C:\Users\S@intHe\Desktop\2D Simulator - Branch\TacticLibrary\bin\Debug\Core.dll
+C:\Users\S@intHe\Desktop\2D Simulator - Branch\TacticLibrary\bin\Debug\Core.pdb
+C:\Users\S@intHe\Desktop\2D Simulator - Branch\TacticLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\S@intHe\Desktop\2D Simulator - Branch\TacticLibrary\obj\Debug\TacticLibrary.dll
+C:\Users\S@intHe\Desktop\2D Simulator - Branch\TacticLibrary\obj\Debug\TacticLibrary.pdb
+C:\Users\S@intHe\Desktop\2DSimulator_CSharp\TacticLibrary\bin\Debug\TacticLibrary.dll
+C:\Users\S@intHe\Desktop\2DSimulator_CSharp\TacticLibrary\bin\Debug\TacticLibrary.pdb
+C:\Users\S@intHe\Desktop\2DSimulator_CSharp\TacticLibrary\bin\Debug\Core.dll
+C:\Users\S@intHe\Desktop\2DSimulator_CSharp\TacticLibrary\bin\Debug\Core.pdb
+C:\Users\S@intHe\Desktop\2DSimulator_CSharp\TacticLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\S@intHe\Desktop\2DSimulator_CSharp\TacticLibrary\obj\Debug\TacticLibrary.dll
+C:\Users\S@intHe\Desktop\2DSimulator_CSharp\TacticLibrary\obj\Debug\TacticLibrary.pdb
+C:\Users\S@intHe\Desktop\Prilohy\prilohy\Robot soccer\2DSimulator_CSharp\TacticLibrary\bin\Debug\TacticLibrary.dll
+C:\Users\S@intHe\Desktop\Prilohy\prilohy\Robot soccer\2DSimulator_CSharp\TacticLibrary\bin\Debug\TacticLibrary.pdb
+C:\Users\S@intHe\Desktop\Prilohy\prilohy\Robot soccer\2DSimulator_CSharp\TacticLibrary\bin\Debug\Core.dll
+C:\Users\S@intHe\Desktop\Prilohy\prilohy\Robot soccer\2DSimulator_CSharp\TacticLibrary\bin\Debug\Core.pdb
+C:\Users\S@intHe\Desktop\Prilohy\prilohy\Robot soccer\2DSimulator_CSharp\TacticLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\S@intHe\Desktop\Prilohy\prilohy\Robot soccer\2DSimulator_CSharp\TacticLibrary\obj\Debug\TacticLibrary.dll
+C:\Users\S@intHe\Desktop\Prilohy\prilohy\Robot soccer\2DSimulator_CSharp\TacticLibrary\obj\Debug\TacticLibrary.pdb
+D:\VŠB-TUO\! Projects\Robots\! Source Codes\! Latest\LAST\2DSimulator_CSharp_v3\TacticLibrary\bin\Debug\TacticLibrary.dll
+D:\VŠB-TUO\! Projects\Robots\! Source Codes\! Latest\LAST\2DSimulator_CSharp_v3\TacticLibrary\bin\Debug\TacticLibrary.pdb
+D:\VŠB-TUO\! Projects\Robots\! Source Codes\! Latest\LAST\2DSimulator_CSharp_v3\TacticLibrary\bin\Debug\Core.dll
+D:\VŠB-TUO\! Projects\Robots\! Source Codes\! Latest\LAST\2DSimulator_CSharp_v3\TacticLibrary\bin\Debug\Core.pdb
+D:\VŠB-TUO\! Projects\Robots\! Source Codes\! Latest\LAST\2DSimulator_CSharp_v3\TacticLibrary\obj\Debug\TacticLibrary.dll
+D:\VŠB-TUO\! Projects\Robots\! Source Codes\! Latest\LAST\2DSimulator_CSharp_v3\TacticLibrary\obj\Debug\TacticLibrary.pdb
+D:\VŠB-TUO\! Projects\Robots\! Source Codes\! Latest\LAST\2DSimulator_CSharp_v3\TacticLibrary\obj\Debug\TacticLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Unity Projects\RobotSoccer\CoreStrategyTactic\TacticLibrary\bin\Debug\TacticLibrary.dll
+C:\Users\Public\Documents\Unity Projects\RobotSoccer\CoreStrategyTactic\TacticLibrary\bin\Debug\TacticLibrary.pdb
+C:\Users\Public\Documents\Unity Projects\RobotSoccer\CoreStrategyTactic\TacticLibrary\bin\Debug\Core.dll
+C:\Users\Public\Documents\Unity Projects\RobotSoccer\CoreStrategyTactic\TacticLibrary\bin\Debug\Core.pdb
+C:\Users\Public\Documents\Unity Projects\RobotSoccer\CoreStrategyTactic\TacticLibrary\obj\Debug\TacticLibrary.dll
+C:\Users\Public\Documents\Unity Projects\RobotSoccer\CoreStrategyTactic\TacticLibrary\obj\Debug\TacticLibrary.pdb
+C:\Users\Public\Documents\Unity Projects\RobotSoccer\FooProject\Assets\DLL\TacticLibrary.dll
+C:\Users\Public\Documents\Unity Projects\RobotSoccer\FooProject\Assets\DLL\TacticLibrary.pdb
+C:\VŠB-TUO\! Articles\! CISIM2015\RobotSoccerSimulator\CISIM2014_backup\Unity Projects\RobotSoccer\FooProject\Assets\DLL\TacticLibrary.dll
+C:\VŠB-TUO\! Articles\! CISIM2015\RobotSoccerSimulator\CISIM2014_backup\Unity Projects\RobotSoccer\FooProject\Assets\DLL\TacticLibrary.pdb
+C:\VŠB-TUO\! Articles\! CISIM2015\RobotSoccerSimulator\CISIM2014_backup\Unity Projects\RobotSoccer\CoreStrategyTactic\TacticLibrary\obj\Debug\TacticLibrary.dll
+C:\VŠB-TUO\! Articles\! CISIM2015\RobotSoccerSimulator\CISIM2014_backup\Unity Projects\RobotSoccer\CoreStrategyTactic\TacticLibrary\obj\Debug\TacticLibrary.pdb
+C:\VŠB-TUO\! Articles\! CISIM2015\RobotSoccerSimulator\CISIM2014_backup\Unity Projects\RobotSoccer\CoreStrategyTactic\TacticLibrary\obj\Debug\TacticLibrary.csprojResolveAssemblyReference.cache
+C:\RobotSoccer_Unity5.0.4\FooProject\Assets\DLL\TacticLibrary.dll
+C:\RobotSoccer_Unity5.0.4\FooProject\Assets\DLL\TacticLibrary.pdb
+C:\RobotSoccer_Unity5.0.4\CoreStrategyTactic\TacticLibrary\obj\Debug\TacticLibrary.csprojResolveAssemblyReference.cache
+C:\RobotSoccer_Unity5.0.4\CoreStrategyTactic\TacticLibrary\obj\Debug\TacticLibrary.dll
+C:\RobotSoccer_Unity5.0.4\CoreStrategyTactic\TacticLibrary\obj\Debug\TacticLibrary.pdb
+D:\Dropbox\Thesis Files 2017\SourceCodes\RobotSoccer_Unity5.0.4\FooProject\Assets\DLL\TacticLibrary.dll
+D:\Dropbox\Thesis Files 2017\SourceCodes\RobotSoccer_Unity5.0.4\FooProject\Assets\DLL\TacticLibrary.pdb
+D:\Dropbox\Thesis Files 2017\SourceCodes\RobotSoccer_Unity5.0.4\CoreStrategyTactic\TacticLibrary\obj\Debug\TacticLibrary.csprojResolveAssemblyReference.cache
+D:\Dropbox\Thesis Files 2017\SourceCodes\RobotSoccer_Unity5.0.4\CoreStrategyTactic\TacticLibrary\obj\Debug\TacticLibrary.dll
+D:\Dropbox\Thesis Files 2017\SourceCodes\RobotSoccer_Unity5.0.4\CoreStrategyTactic\TacticLibrary\obj\Debug\TacticLibrary.pdb
+C:\Users\Venca\Desktop\RobotSoccer_Unity5.0.4\FooProject\Assets\DLL\TacticLibrary.dll
+C:\Users\Venca\Desktop\RobotSoccer_Unity5.0.4\FooProject\Assets\DLL\TacticLibrary.pdb
+C:\Users\Venca\Desktop\RobotSoccer_Unity5.0.4\CoreStrategyTactic\TacticLibrary\obj\Debug\TacticLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Venca\Desktop\RobotSoccer_Unity5.0.4\CoreStrategyTactic\TacticLibrary\obj\Debug\TacticLibrary.dll
+C:\Users\Venca\Desktop\RobotSoccer_Unity5.0.4\CoreStrategyTactic\TacticLibrary\obj\Debug\TacticLibrary.pdb
+D:\Dropbox\Thesis Files 2017\SourceCodes\RobotSoccer_Unity5.0.4_v2\FooProject\Assets\DLL\TacticLibrary.dll
+D:\Dropbox\Thesis Files 2017\SourceCodes\RobotSoccer_Unity5.0.4_v2\FooProject\Assets\DLL\TacticLibrary.pdb
+D:\Dropbox\Thesis Files 2017\SourceCodes\RobotSoccer_Unity5.0.4_v2\CoreStrategyTactic\TacticLibrary\obj\Debug\TacticLibrary.csprojResolveAssemblyReference.cache
+D:\Dropbox\Thesis Files 2017\SourceCodes\RobotSoccer_Unity5.0.4_v2\CoreStrategyTactic\TacticLibrary\obj\Debug\TacticLibrary.dll
+D:\Dropbox\Thesis Files 2017\SourceCodes\RobotSoccer_Unity5.0.4_v2\CoreStrategyTactic\TacticLibrary\obj\Debug\TacticLibrary.pdb
+C:\Dropbox\Thesis Files 2017\SourceCodes\RobotSoccer_Unity5.0.4_v2\FooProject\Assets\DLL\TacticLibrary.dll
+C:\Dropbox\Thesis Files 2017\SourceCodes\RobotSoccer_Unity5.0.4_v2\FooProject\Assets\DLL\TacticLibrary.pdb
+C:\Dropbox\Thesis Files 2017\SourceCodes\RobotSoccer_Unity5.0.4_v2\CoreStrategyTactic\TacticLibrary\obj\Debug\TacticLibrary.csprojResolveAssemblyReference.cache
+C:\Dropbox\Thesis Files 2017\SourceCodes\RobotSoccer_Unity5.0.4_v2\CoreStrategyTactic\TacticLibrary\obj\Debug\TacticLibrary.dll
+C:\Dropbox\Thesis Files 2017\SourceCodes\RobotSoccer_Unity5.0.4_v2\CoreStrategyTactic\TacticLibrary\obj\Debug\TacticLibrary.pdb
+C:\Users\Sebastián\Documents\schule\Schule\Bc\RobotSoccer_Unity5.0.4_v2\FooProject\Assets\DLL\TacticLibrary.dll
+C:\Users\Sebastián\Documents\schule\Schule\Bc\RobotSoccer_Unity5.0.4_v2\FooProject\Assets\DLL\TacticLibrary.pdb
+C:\Users\Sebastián\Documents\schule\Schule\Bc\RobotSoccer_Unity5.0.4_v2\CoreStrategyTactic\TacticLibrary\obj\Debug\TacticLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Sebastián\Documents\schule\Schule\Bc\RobotSoccer_Unity5.0.4_v2\CoreStrategyTactic\TacticLibrary\obj\Debug\TacticLibrary.dll
+C:\Users\Sebastián\Documents\schule\Schule\Bc\RobotSoccer_Unity5.0.4_v2\CoreStrategyTactic\TacticLibrary\obj\Debug\TacticLibrary.pdb

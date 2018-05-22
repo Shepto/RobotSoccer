@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Core.Storage" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Storage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.GameSetting" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAJAAYAAAAACAAEAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>GameSetting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Ball" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>RS.Ball.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Robot" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>RS.Robot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Vector2D" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAA4AUAAABACAAEAIAAgEBgAAAAYiA=</HashCode>
+      <FileName>SG.Vector2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Core.SituationType" Collapsed="true">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACIAEDAAAEAIQECCAACAAAAAAAAABACAAAAAAAA=</HashCode>
+      <FileName>ESituationType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

@@ -1,0 +1,61 @@
+C:\Users\Buraq\Documents\Unity\FooProject\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Buraq\Documents\Unity\FooProject\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Buraq\Documents\Unity\FooProject\Temp\bin\Debug\Pathfinding.Ionic.Zip.Reduced.dll
+C:\Users\Buraq\Documents\Unity\FooProject\Temp\bin\Debug\Pathfinding.JsonFx.dll
+C:\Users\Buraq\Documents\Unity\FooProject\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Buraq\Documents\Unity\FooProject\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Buraq\Documents\Unity\FooProject\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Buraq\Documents\Unity\FooProject\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Buraq\Documents\Unity\FooProject\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Buraq\Documents\Unity\FooProject\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Buraq\Documents\Unity\FooProject\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+C:\Users\Buraq\Documents\Unity\FooProject\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Buraq\Documents\Unity\FooProject\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Buraq\Documents\Unity\FooProject\Temp\bin\Debug\Core.dll
+C:\Users\Buraq\Documents\Unity\FooProject\Temp\bin\Debug\LogLibrary.dll
+C:\Users\Buraq\Documents\Unity\FooProject\Temp\bin\Debug\StrategyLibrary.dll
+C:\Users\Buraq\Documents\Unity\FooProject\Temp\bin\Debug\TacticLibrary.dll
+C:\VŠB-TUO\! Articles\! CISIM2015\RobotSoccerSimulator\CISIM2014_backup\Unity Projects\RobotSoccer\FooProject\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\VŠB-TUO\! Articles\! CISIM2015\RobotSoccerSimulator\CISIM2014_backup\Unity Projects\RobotSoccer\FooProject\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\VŠB-TUO\! Articles\! CISIM2015\RobotSoccerSimulator\CISIM2014_backup\Unity Projects\RobotSoccer\FooProject\Temp\bin\Debug\Core.dll
+C:\VŠB-TUO\! Articles\! CISIM2015\RobotSoccerSimulator\CISIM2014_backup\Unity Projects\RobotSoccer\FooProject\Temp\bin\Debug\LogLibrary.dll
+C:\VŠB-TUO\! Articles\! CISIM2015\RobotSoccerSimulator\CISIM2014_backup\Unity Projects\RobotSoccer\FooProject\Temp\bin\Debug\Pathfinding.Ionic.Zip.Reduced.dll
+C:\VŠB-TUO\! Articles\! CISIM2015\RobotSoccerSimulator\CISIM2014_backup\Unity Projects\RobotSoccer\FooProject\Temp\bin\Debug\Pathfinding.JsonFx.dll
+C:\VŠB-TUO\! Articles\! CISIM2015\RobotSoccerSimulator\CISIM2014_backup\Unity Projects\RobotSoccer\FooProject\Temp\bin\Debug\TacticLibrary.dll
+C:\VŠB-TUO\! Articles\! CISIM2015\RobotSoccerSimulator\CISIM2014_backup\Unity Projects\RobotSoccer\FooProject\Temp\bin\Debug\UnityEditor.dll
+C:\VŠB-TUO\! Articles\! CISIM2015\RobotSoccerSimulator\CISIM2014_backup\Unity Projects\RobotSoccer\FooProject\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\VŠB-TUO\! Articles\! CISIM2015\RobotSoccerSimulator\CISIM2014_backup\Unity Projects\RobotSoccer\FooProject\Temp\bin\Debug\UnityEngine.dll
+C:\VŠB-TUO\! Articles\! CISIM2015\RobotSoccerSimulator\CISIM2014_backup\Unity Projects\RobotSoccer\FooProject\Temp\bin\Debug\UnityEngine.UI.dll
+C:\VŠB-TUO\! Articles\! CISIM2015\RobotSoccerSimulator\CISIM2014_backup\Unity Projects\RobotSoccer\FooProject\Temp\bin\Debug\Mono.Cecil.dll
+C:\VŠB-TUO\! Articles\! CISIM2015\RobotSoccerSimulator\CISIM2014_backup\Unity Projects\RobotSoccer\FooProject\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\VŠB-TUO\! Articles\! CISIM2015\RobotSoccerSimulator\CISIM2014_backup\Unity Projects\RobotSoccer\FooProject\Temp\bin\Debug\Unity.DataContract.dll
+C:\VŠB-TUO\! Articles\! CISIM2015\RobotSoccerSimulator\CISIM2014_backup\Unity Projects\RobotSoccer\FooProject\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\VŠB-TUO\! Articles\! CISIM2015\RobotSoccerSimulator\CISIM2014_backup\Unity Projects\RobotSoccer\FooProject\Temp\bin\Debug\Unity.CecilTools.dll
+C:\VŠB-TUO\! Articles\! CISIM2015\RobotSoccerSimulator\CISIM2014_backup\Unity Projects\RobotSoccer\FooProject\Temp\bin\Debug\Core.pdb
+C:\VŠB-TUO\! Articles\! CISIM2015\RobotSoccerSimulator\CISIM2014_backup\Unity Projects\RobotSoccer\FooProject\Temp\bin\Debug\TacticLibrary.pdb
+C:\VŠB-TUO\! Articles\! CISIM2015\RobotSoccerSimulator\CISIM2014_backup\Unity Projects\RobotSoccer\FooProject\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+C:\VŠB-TUO\! Articles\! CISIM2015\RobotSoccerSimulator\CISIM2014_backup\Unity Projects\RobotSoccer\FooProject\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\VŠB-TUO\! Articles\! CISIM2015\RobotSoccerSimulator\CISIM2014_backup\Unity Projects\RobotSoccer\FooProject\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\RobotSoccer_Unity5.0.4\FooProject\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\RobotSoccer_Unity5.0.4\FooProject\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\RobotSoccer_Unity5.0.4\FooProject\Temp\bin\Debug\Core.dll
+C:\RobotSoccer_Unity5.0.4\FooProject\Temp\bin\Debug\LogLibrary.dll
+C:\RobotSoccer_Unity5.0.4\FooProject\Temp\bin\Debug\Pathfinding.Ionic.Zip.Reduced.dll
+C:\RobotSoccer_Unity5.0.4\FooProject\Temp\bin\Debug\Pathfinding.JsonFx.dll
+C:\RobotSoccer_Unity5.0.4\FooProject\Temp\bin\Debug\StrategyLibrary.dll
+C:\RobotSoccer_Unity5.0.4\FooProject\Temp\bin\Debug\TacticLibrary.dll
+C:\RobotSoccer_Unity5.0.4\FooProject\Temp\bin\Debug\UnityEditor.dll
+C:\RobotSoccer_Unity5.0.4\FooProject\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\RobotSoccer_Unity5.0.4\FooProject\Temp\bin\Debug\UnityEngine.dll
+C:\RobotSoccer_Unity5.0.4\FooProject\Temp\bin\Debug\UnityEngine.UI.dll
+C:\RobotSoccer_Unity5.0.4\FooProject\Temp\bin\Debug\Mono.Cecil.dll
+C:\RobotSoccer_Unity5.0.4\FooProject\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\RobotSoccer_Unity5.0.4\FooProject\Temp\bin\Debug\Unity.DataContract.dll
+C:\RobotSoccer_Unity5.0.4\FooProject\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\RobotSoccer_Unity5.0.4\FooProject\Temp\bin\Debug\Unity.CecilTools.dll
+C:\RobotSoccer_Unity5.0.4\FooProject\Temp\bin\Debug\Core.pdb
+C:\RobotSoccer_Unity5.0.4\FooProject\Temp\bin\Debug\StrategyLibrary.pdb
+C:\RobotSoccer_Unity5.0.4\FooProject\Temp\bin\Debug\TacticLibrary.pdb
+C:\RobotSoccer_Unity5.0.4\FooProject\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+C:\RobotSoccer_Unity5.0.4\FooProject\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\RobotSoccer_Unity5.0.4\FooProject\obj\Debug\Assembly-CSharp-firstpass.pdb

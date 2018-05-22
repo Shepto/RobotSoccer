@@ -1,0 +1,47 @@
+C:\Documents and Settings\Lucka\Plocha\Bakalarka FIRA\Core\bin\Release\Core.dll
+C:\Documents and Settings\Lucka\Plocha\Bakalarka FIRA\Core\bin\Release\Core.pdb
+C:\Documents and Settings\Lucka\Plocha\Bakalarka FIRA\Core\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Lucka\Plocha\Bakalarka FIRA\Core\obj\Release\Core.dll
+C:\Documents and Settings\Lucka\Plocha\Bakalarka FIRA\Core\obj\Release\Core.pdb
+D:\VSB\BAKALARKA\v1\Core\bin\Release\Core.dll
+D:\VSB\BAKALARKA\v1\Core\bin\Release\Core.pdb
+D:\VSB\BAKALARKA\v1\Core\obj\Release\ResolveAssemblyReference.cache
+D:\VSB\BAKALARKA\v1\Core\obj\Release\Core.dll
+D:\VSB\BAKALARKA\v1\Core\obj\Release\Core.pdb
+C:\Users\S@intHe\Desktop\2D Simulator - Branch\Core\bin\Release\Core.dll
+C:\Users\S@intHe\Desktop\2D Simulator - Branch\Core\bin\Release\Core.pdb
+C:\Users\S@intHe\Desktop\2D Simulator - Branch\Core\obj\Release\ResolveAssemblyReference.cache
+C:\Users\S@intHe\Desktop\2D Simulator - Branch\Core\obj\Release\Core.dll
+C:\Users\S@intHe\Desktop\2D Simulator - Branch\Core\obj\Release\Core.pdb
+C:\Users\S@intHe\Desktop\2DSimulator_CSharp\Core\bin\Release\Core.dll
+C:\Users\S@intHe\Desktop\2DSimulator_CSharp\Core\bin\Release\Core.pdb
+C:\Users\S@intHe\Desktop\2DSimulator_CSharp\Core\obj\Release\ResolveAssemblyReference.cache
+C:\Users\S@intHe\Desktop\2DSimulator_CSharp\Core\obj\Release\Core.dll
+C:\Users\S@intHe\Desktop\2DSimulator_CSharp\Core\obj\Release\Core.pdb
+C:\Users\Jakub\Desktop\RBTS\2DSimulator_CSharp\Core\bin\Release\Core.dll
+C:\Users\Jakub\Desktop\RBTS\2DSimulator_CSharp\Core\bin\Release\Core.pdb
+C:\Users\Jakub\Desktop\RBTS\2DSimulator_CSharp\Core\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\RBTS\2DSimulator_CSharp\Core\obj\Release\Core.dll
+C:\Users\Jakub\Desktop\RBTS\2DSimulator_CSharp\Core\obj\Release\Core.pdb
+C:\Users\Jakub\Desktop\Robots\2DSimulator_CSharp\Core\bin\Release\Core.dll
+C:\Users\Jakub\Desktop\Robots\2DSimulator_CSharp\Core\bin\Release\Core.pdb
+C:\Users\Jakub\Desktop\Robots\2DSimulator_CSharp\Core\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\Robots\2DSimulator_CSharp\Core\obj\Release\Core.dll
+C:\Users\Jakub\Desktop\Robots\2DSimulator_CSharp\Core\obj\Release\Core.pdb
+C:\Users\S@intHe\Desktop\Prilohy\prilohy\Robot soccer\2DSimulator_CSharp\Core\bin\Release\Core.dll
+C:\Users\S@intHe\Desktop\Prilohy\prilohy\Robot soccer\2DSimulator_CSharp\Core\bin\Release\Core.pdb
+C:\Users\S@intHe\Desktop\Prilohy\prilohy\Robot soccer\2DSimulator_CSharp\Core\obj\Release\ResolveAssemblyReference.cache
+C:\Users\S@intHe\Desktop\Prilohy\prilohy\Robot soccer\2DSimulator_CSharp\Core\obj\Release\Core.dll
+C:\Users\S@intHe\Desktop\Prilohy\prilohy\Robot soccer\2DSimulator_CSharp\Core\obj\Release\Core.pdb
+D:\VŠB-TUO\! Projects\Robots\! Source Codes\! Latest\2DSimulator_CSharp_v3\Core\bin\Release\Core.dll
+D:\VŠB-TUO\! Projects\Robots\! Source Codes\! Latest\2DSimulator_CSharp_v3\Core\bin\Release\Core.pdb
+D:\VŠB-TUO\! Projects\Robots\! Source Codes\! Latest\2DSimulator_CSharp_v3\Core\obj\Release\Core.dll
+D:\VŠB-TUO\! Projects\Robots\! Source Codes\! Latest\2DSimulator_CSharp_v3\Core\obj\Release\Core.pdb
+D:\VŠB-TUO\! Projects\Robots\! Source Codes\! Latest\LAST\2DSimulator_CSharp_v3\Core\bin\Release\Core.dll
+D:\VŠB-TUO\! Projects\Robots\! Source Codes\! Latest\LAST\2DSimulator_CSharp_v3\Core\bin\Release\Core.pdb
+D:\VŠB-TUO\! Projects\Robots\! Source Codes\! Latest\LAST\2DSimulator_CSharp_v3\Core\obj\Release\Core.dll
+D:\VŠB-TUO\! Projects\Robots\! Source Codes\! Latest\LAST\2DSimulator_CSharp_v3\Core\obj\Release\Core.pdb
+C:\Users\Public\Documents\Unity Projects\RobotSoccer\FooProject\Assets\DLL\Core.dll
+C:\Users\Public\Documents\Unity Projects\RobotSoccer\FooProject\Assets\DLL\Core.pdb
+C:\Users\Public\Documents\Unity Projects\RobotSoccer\CoreStrategyTactic\Core\obj\Release\Core.dll
+C:\Users\Public\Documents\Unity Projects\RobotSoccer\CoreStrategyTactic\Core\obj\Release\Core.pdb

@@ -1,0 +1,1068 @@
+.Strategy		"AddonDefOff"
+.Algorithm		"Algoritmus"
+.Author			"Svaton"
+.Date			"10.6.2014"
+.Size			6,4
+.AttackerMin		1
+.RuleException		1
+.PriorityMine		70 70 70 70
+.PriorityMineD		70 70 70 70
+.PriorityOpponent	70 70 70 70
+.PriorityOpponentD	70 70 70 70
+.PriorityBall		70
+
+.Rule	1 o offensiveM
+.Mine	4,2  4,3  2,2  2,3
+.Oppnt	4,2  4,3  5,1  5,4
+.Ball	4,2
+.Move	5,2  5,3  2,2  3,3
+
+.Rule	2 o offensiveM
+.Mine	5,2  5,3  2,2  3,3
+.Oppnt	5,2  5,3  5,1  5,4
+.Ball	5,2
+.Move	6,2  5,3  2,2  3,3
+
+.Rule	3 o offensiveM
+.Mine	6,2  5,3  2,2  3,3
+.Oppnt	5,2  5,3  5,1  5,4
+.Ball	6,2
+.Move	6,2  5,3  2,2  3,3
+
+.Rule	4 o offensiveL
+.Mine	3,2  3,3  3,1  2,3
+.Oppnt	4,1  4,2  5,1  5,3
+.Ball	3,1
+.Move	4,2  3,2  4,1  3,3
+
+.Rule	5 o offensiveL
+.Mine	4,2  3,2  4,1  3,3
+.Oppnt	4,1  4,2  5,1  5,3
+.Ball	4,1
+.Move	5,2  4,2  5,1  3,3
+
+.Rule	6 o offensiveL
+.Mine	5,2  4,2  5,1  3,3
+.Oppnt	4,1  5,2  5,1  5,3
+.Ball	5,1
+.Move	5,2  4,3  5,1  3,2
+
+.Rule	7 o offensiveL
+.Mine	5,2  4,3  5,1  3,2
+.Oppnt	4,1  5,2  5,2  5,3
+.Ball	5,2
+.Move	6,2  5,3  5,1  3,2
+
+.Rule	8 o offensiveL
+.Mine	6,2  5,3  5,1  3,2
+.Oppnt	4,2  5,2  6,2  5,3
+.Ball	6,2
+.Move	6,2  5,3  5,1  3,2
+
+.Rule	9 d defensiveL
+.Mine	3,1  3,3  2,1  2,2
+.Oppnt	3,1  3,2  5,2  4,3
+.Ball	3,1
+.Move	2,1  2,3  1,1  2,2
+
+.Rule	10 d defensiveL
+.Mine	2,1  2,3  1,1  2,2
+.Oppnt	2,1  2,2  4,2  3,3
+.Ball	2,1
+.Move	2,2  1,3  1,2  2,3
+
+.Rule	11 d defensiveL
+.Mine	2,2  1,3  1,2  2,3
+.Oppnt	1,2  2,2  4,2  2,3
+.Ball	1,2
+.Move	2,2  1,3  1,2  2,3
+
+.Rule	101 d adaptRule
+.Mine	3,2  5,1  6,2  3,3
+.Oppnt	6,2  1,3  5,2  6,2
+.Ball	1,3
+.Move	3,2  5,1  1,3  1,3
+
+.Rule	102 d adaptRule
+.Mine	3,2  5,1  6,2  4,3
+.Oppnt	6,2  1,3  5,2  6,2
+.Ball	1,3
+.Move	3,2  5,1  1,3  1,3
+
+.Rule	103 d adaptRule
+.Mine	3,2  5,1  6,2  5,3
+.Oppnt	6,2  1,3  5,2  6,2
+.Ball	1,3
+.Move	3,2  5,1  1,3  1,3
+
+.Rule	104 d adaptRule
+.Mine	2,1  3,2  5,2  3,3
+.Oppnt	5,2  3,2  4,2  5,3
+.Ball	2,1
+.Move	2,1  3,2  2,1  2,1
+
+.Rule	105 d adaptRule
+.Mine	2,1  4,2  5,2  3,3
+.Oppnt	5,2  3,2  4,2  4,3
+.Ball	1,1
+.Move	2,1  4,2  1,1  1,1
+
+.Rule	106 d adaptRule
+.Mine	2,1  4,2  5,2  3,3
+.Oppnt	5,2  2,2  4,2  4,3
+.Ball	1,2
+.Move	2,1  4,2  1,2  1,2
+
+.Rule	107 d adaptRule
+.Mine	5,1  5,3  3,2  5,2
+.Oppnt	6,3  6,2  5,2  4,4
+.Ball	4,4
+.Move	5,1  5,3  4,4  4,4
+
+.Rule	108 d adaptRule
+.Mine	4,1  5,3  3,3  6,2
+.Oppnt	6,3  6,2  5,2  3,3
+.Ball	3,3
+.Move	4,1  5,3  3,3  3,3
+
+.Rule	109 d adaptRule
+.Mine	4,2  5,3  2,3  6,2
+.Oppnt	6,3  6,2  5,2  2,3
+.Ball	1,3
+.Move	4,2  5,3  1,3  1,3
+
+.Rule	110 d adaptRule
+.Mine	3,2  6,2  5,1  2,4
+.Oppnt	3,3  1,4  2,2  5,3
+.Ball	1,4
+.Move	3,2  6,2  1,4  1,4
+
+.Rule	111 d adaptRule
+.Mine	3,2  6,2  5,1  1,4
+.Oppnt	3,3  1,3  2,2  5,3
+.Ball	1,3
+.Move	3,2  6,2  1,3  1,3
+
+.Rule	112 d adaptRule
+.Mine	3,2  6,2  5,1  2,4
+.Oppnt	3,3  1,3  2,2  5,3
+.Ball	1,3
+.Move	3,2  6,2  1,3  1,3
+
+.Rule	113 d adaptRule
+.Mine	2,2  3,3  3,2  2,4
+.Oppnt	5,2  4,3  4,2  5,3
+.Ball	3,2
+.Move	2,2  3,3  3,2  3,2
+
+.Rule	114 d adaptRule
+.Mine	2,2  3,3  3,2  3,4
+.Oppnt	5,2  3,2  3,2  4,3
+.Ball	2,3
+.Move	2,2  3,3  2,3  2,3
+
+.Rule	115 d adaptRule
+.Mine	2,2  3,3  3,3  4,3
+.Oppnt	5,3  3,2  3,2  3,3
+.Ball	1,3
+.Move	2,2  3,3  1,3  1,3
+
+.Rule	116 d adaptRule
+.Mine	2,2  3,3  5,2  4,3
+.Oppnt	5,2  2,3  2,2  4,3
+.Ball	2,3
+.Move	2,2  3,3  2,3  2,3
+
+.Rule	117 d adaptRule
+.Mine	2,2  2,3  5,2  4,3
+.Oppnt	5,2  3,3  2,2  5,3
+.Ball	2,3
+.Move	2,2  2,3  2,3  2,3
+
+.Rule	118 d adaptRule
+.Mine	2,2  2,3  5,2  4,3
+.Oppnt	5,2  2,2  3,2  5,3
+.Ball	1,2
+.Move	2,2  2,3  1,2  1,2
+
+.Rule	119 d adaptRule
+.Mine	2,2  4,4  6,2  3,3
+.Oppnt	6,2  5,3  5,2  5,4
+.Ball	3,4
+.Move	2,2  4,4  3,4  3,4
+
+.Rule	120 d adaptRule
+.Mine	2,2  4,4  6,2  3,4
+.Oppnt	6,2  5,3  5,2  4,4
+.Ball	2,3
+.Move	2,2  4,4  2,3  2,3
+
+.Rule	121 d adaptRule
+.Mine	2,2  5,4  6,2  2,3
+.Oppnt	6,2  5,3  5,2  4,4
+.Ball	1,3
+.Move	2,2  5,4  1,3  1,3
+
+.Rule	122 d adaptRule
+.Mine	2,2  5,3  3,3  5,2
+.Oppnt	6,2  5,3  5,2  6,3
+.Ball	5,2
+.Move	2,2  5,3  5,2  5,2
+
+.Rule	123 d adaptRule
+.Mine	2,2  5,2  3,3  5,2
+.Oppnt	6,2  5,3  4,2  6,3
+.Ball	4,2
+.Move	2,2  5,2  4,2  4,2
+
+.Rule	124 d adaptRule
+.Mine	2,2  5,3  3,3  6,2
+.Oppnt	6,2  5,3  4,2  6,3
+.Ball	2,3
+.Move	2,2  5,3  2,3  2,3
+
+.Rule	125 d adaptRule
+.Mine	6,2  3,2  5,3  2,4
+.Oppnt	2,4  5,2  6,2  5,3
+.Ball	1,4
+.Move	6,2  3,2  1,4  1,4
+
+.Rule	126 d adaptRule
+.Mine	6,2  2,2  5,3  1,4
+.Oppnt	1,3  5,2  6,2  5,3
+.Ball	1,3
+.Move	6,2  2,2  1,3  1,3
+
+.Rule	127 d adaptRule
+.Mine	6,2  2,2  5,3  2,3
+.Oppnt	1,3  5,2  6,2  4,3
+.Ball	1,3
+.Move	6,2  2,2  1,3  1,3
+
+.Rule	201 o adaptRule
+.Mine	6,3  2,2  1,1  6,2
+.Oppnt	4,1  2,1  3,2  4,3
+.Ball	6,2
+.Move	6,3  2,2  6,2  6,2
+
+.Rule	202 o adaptRule
+.Mine	6,3  2,2  1,2  6,2
+.Oppnt	4,1  2,1  4,2  4,3
+.Ball	6,2
+.Move	6,3  2,2  6,2  6,2
+
+.Rule	203 o adaptRule
+.Mine	6,3  2,2  1,1  6,2
+.Oppnt	3,2  2,1  4,2  4,3
+.Ball	6,2
+.Move	6,3  2,2  6,2  6,2
+
+.Rule	204 o adaptRule
+.Mine	6,3  2,2  5,1  6,2
+.Oppnt	3,3  4,1  6,3  5,3
+.Ball	6,2
+.Move	6,3  2,2  6,2  6,2
+
+.Rule	205 o adaptRule
+.Mine	6,3  3,1  6,2  3,3
+.Oppnt	3,3  4,1  6,3  5,3
+.Ball	6,2
+.Move	6,3  3,1  6,2  6,2
+
+.Rule	206 o adaptRule
+.Mine	6,3  3,1  6,2  3,3
+.Oppnt	4,3  4,1  6,3  5,3
+.Ball	6,2
+.Move	6,3  3,1  6,2  6,2
+
+.Rule	207 o adaptRule
+.Mine	2,2  6,2  6,3  3,3
+.Oppnt	5,2  3,3  4,2  5,3
+.Ball	6,2
+.Move	2,2  6,2  6,2  6,2
+
+.Rule	208 o adaptRule
+.Mine	2,2  6,3  6,2  2,4
+.Oppnt	5,1  4,3  4,2  5,3
+.Ball	6,2
+.Move	2,2  6,3  6,2  6,2
+
+.Rule	209 o adaptRule
+.Mine	2,2  6,2  4,2  6,3
+.Oppnt	5,2  3,2  4,2  4,3
+.Ball	6,2
+.Move	2,2  6,2  6,2  6,2
+
+.Rule	210 o adaptRule
+.Mine	2,2  6,2  6,2  6,3
+.Oppnt	6,3  4,3  5,2  5,3
+.Ball	6,2
+.Move	2,2  6,2  6,2  6,2
+
+.Rule	211 o adaptRule
+.Mine	4,2  5,1  6,3  6,2
+.Oppnt	5,3  3,3  4,2  6,3
+.Ball	6,2
+.Move	4,2  5,1  6,2  6,2
+
+.Rule	212 o adaptRule
+.Mine	3,2  5,1  6,3  6,2
+.Oppnt	5,3  4,3  4,2  6,3
+.Ball	6,2
+.Move	3,2  5,1  6,2  6,2
+
+.Rule	213 o adaptRule
+.Mine	6,3  6,2  5,2  3,3
+.Oppnt	5,3  4,2  4,4  5,3
+.Ball	6,2
+.Move	6,3  6,2  6,2  6,2
+
+.Rule	214 o adaptRule
+.Mine	6,3  6,2  5,2  2,2
+.Oppnt	5,3  5,2  5,4  5,3
+.Ball	6,2
+.Move	6,3  6,2  6,2  6,2
+
+.Rule	215 o adaptRule
+.Mine	6,3  6,2  6,2  2,2
+.Oppnt	5,3  5,2  6,4  5,3
+.Ball	6,2
+.Move	6,3  6,2  6,2  6,2
+
+.Rule	216 o adaptRule
+.Mine	6,3  6,2  6,2  2,2
+.Oppnt	4,3  5,2  6,3  5,3
+.Ball	6,2
+.Move	6,3  6,2  6,2  6,2
+
+.Rule	217 o adaptRule
+.Mine	6,2  6,3  5,2  2,2
+.Oppnt	4,3  5,2  6,3  5,3
+.Ball	6,2
+.Move	6,2  6,3  6,2  6,2
+
+.Rule	218 o adaptRule
+.Mine	6,2  6,3  6,2  2,2
+.Oppnt	4,3  5,2  6,3  5,3
+.Ball	6,2
+.Move	6,2  6,3  6,2  6,2
+
+.Rule	219 o adaptRule
+.Mine	6,3  6,2  5,2  2,2
+.Oppnt	4,3  5,2  6,3  5,3
+.Ball	6,2
+.Move	6,3  6,2  6,2  6,2
+
+.Rule	220 o adaptRule
+.Mine	3,2  6,3  6,2  3,3
+.Oppnt	5,2  3,3  4,1  5,3
+.Ball	6,2
+.Move	3,2  6,3  6,2  6,2
+
+.Rule	221 o adaptRule
+.Mine	2,2  6,3  6,2  3,3
+.Oppnt	5,2  3,3  5,1  5,3
+.Ball	6,2
+.Move	2,2  6,3  6,2  6,2
+
+.Rule	222 o adaptRule
+.Mine	2,2  6,3  6,2  3,3
+.Oppnt	5,2  4,4  4,2  5,3
+.Ball	6,2
+.Move	2,2  6,3  6,2  6,2
+
+.Rule	223 o adaptRule
+.Mine	3,1  2,4  6,2  6,3
+.Oppnt	5,2  1,3  1,2  4,3
+.Ball	6,2
+.Move	3,1  2,4  6,2  6,2
+
+.Rule	224 o adaptRule
+.Mine	4,1  2,4  6,2  6,3
+.Oppnt	5,2  2,3  1,2  4,3
+.Ball	6,2
+.Move	4,1  2,4  6,2  6,2
+
+.Rule	225 o adaptRule
+.Mine	6,2  4,4  3,2  6,3
+.Oppnt	5,2  2,3  2,2  4,4
+.Ball	6,2
+.Move	6,2  4,4  6,2  6,2
+
+.Rule	226 o adaptRule
+.Mine	5,1  6,2  3,2  6,3
+.Oppnt	6,3  4,3  5,2  6,4
+.Ball	6,2
+.Move	5,1  6,2  6,2  6,2
+
+.Rule	227 o adaptRule
+.Mine	3,2  5,1  6,2  6,3
+.Oppnt	6,2  5,3  5,2  6,3
+.Ball	6,2
+.Move	3,2  5,1  6,2  6,2
+
+.Rule	228 o adaptRule
+.Mine	3,2  3,1  6,3  6,2
+.Oppnt	6,1  3,1  5,1  5,2
+.Ball	6,2
+.Move	3,2  3,1  6,2  6,2
+
+.Rule	229 o adaptRule
+.Mine	6,2  3,2  6,3  3,3
+.Oppnt	6,1  3,1  5,1  5,2
+.Ball	6,2
+.Move	6,2  3,2  6,2  6,2
+
+.Rule	230 o adaptRule
+.Mine	6,3  3,2  6,2  4,3
+.Oppnt	6,1  4,2  5,1  5,2
+.Ball	6,2
+.Move	6,3  3,2  6,2  6,2
+
+.Rule	231 o adaptRule
+.Mine	6,2  2,4  3,2  6,3
+.Oppnt	5,2  1,3  1,2  4,3
+.Ball	6,2
+.Move	6,2  2,4  6,2  6,2
+
+.Rule	232 o adaptRule
+.Mine	6,2  3,4  3,2  6,3
+.Oppnt	5,2  2,3  1,2  4,4
+.Ball	6,2
+.Move	6,2  3,4  6,2  6,2
+
+.Rule	233 o adaptRule
+.Mine	6,2  4,4  3,2  6,3
+.Oppnt	5,2  3,3  2,2  4,4
+.Ball	6,2
+.Move	6,2  4,4  6,2  6,2
+
+.Rule	234 o adaptRule
+.Mine	6,2  4,4  3,2  6,3
+.Oppnt	5,2  3,3  2,2  5,4
+.Ball	6,2
+.Move	6,2  4,4  6,2  6,2
+
+.Rule	235 o adaptRule
+.Mine	6,2  4,4  3,2  6,3
+.Oppnt	6,2  4,3  3,2  5,3
+.Ball	6,2
+.Move	6,2  4,4  6,2  6,2
+
+.Rule	236 o adaptRule
+.Mine	5,1  6,3  3,2  6,2
+.Oppnt	6,2  5,3  4,2  6,3
+.Ball	6,2
+.Move	5,1  6,3  6,2  6,2
+
+.Rule	237 o adaptRule
+.Mine	5,1  6,3  4,1  6,2
+.Oppnt	6,3  6,2  4,1  5,3
+.Ball	6,2
+.Move	5,1  6,3  6,2  6,2
+
+.Rule	238 o adaptRule
+.Mine	5,1  6,3  3,1  6,2
+.Oppnt	6,3  6,2  4,1  5,3
+.Ball	6,2
+.Move	5,1  6,3  6,2  6,2
+
+.Rule	239 o adaptRule
+.Mine	5,1  6,3  3,2  6,2
+.Oppnt	6,3  6,2  5,1  5,3
+.Ball	6,2
+.Move	5,1  6,3  6,2  6,2
+
+.Rule	240 o adaptRule
+.Mine	5,1  6,3  3,2  6,2
+.Oppnt	6,3  6,2  6,1  5,3
+.Ball	6,2
+.Move	5,1  6,3  6,2  6,2
+
+.Rule	241 o adaptRule
+.Mine	5,1  6,3  3,2  6,2
+.Oppnt	5,3  6,2  5,2  5,3
+.Ball	6,2
+.Move	5,1  6,3  6,2  6,2
+
+.Rule	242 o adaptRule
+.Mine	5,1  6,2  3,2  6,3
+.Oppnt	5,3  6,2  5,2  5,3
+.Ball	6,2
+.Move	5,1  6,2  6,2  6,2
+
+.Rule	243 o adaptRule
+.Mine	5,1  6,3  3,2  6,2
+.Oppnt	6,3  6,2  5,2  5,3
+.Ball	6,2
+.Move	5,1  6,3  6,2  6,2
+
+.Rule	244 o adaptRule
+.Mine	2,2  6,3  6,2  3,3
+.Oppnt	5,1  4,2  4,2  5,3
+.Ball	6,2
+.Move	2,2  6,3  6,2  6,2
+
+.Rule	245 o adaptRule
+.Mine	2,2  6,3  6,2  3,3
+.Oppnt	5,2  4,3  4,2  5,2
+.Ball	6,2
+.Move	2,2  6,3  6,2  6,2
+
+.Rule	246 o adaptRule
+.Mine	2,2  6,2  6,3  3,3
+.Oppnt	5,2  4,3  4,2  5,3
+.Ball	6,2
+.Move	2,2  6,2  6,2  6,2
+
+.Rule	247 o adaptRule
+.Mine	5,1  6,3  3,2  6,2
+.Oppnt	6,2  5,4  5,3  5,2
+.Ball	6,2
+.Move	5,1  6,3  6,2  6,2
+
+.Rule	248 o adaptRule
+.Mine	5,1  6,2  3,2  6,3
+.Oppnt	6,2  6,4  5,3  5,2
+.Ball	6,2
+.Move	5,1  6,2  6,2  6,2
+
+.Rule	249 o adaptRule
+.Mine	5,1  6,2  3,2  6,3
+.Oppnt	6,2  6,3  5,3  5,2
+.Ball	6,2
+.Move	5,1  6,2  6,2  6,2
+
+.Rule	250 o adaptRule
+.Mine	6,3  1,3  2,2  6,2
+.Oppnt	4,2  1,2  4,1  3,2
+.Ball	6,2
+.Move	6,3  1,3  6,2  6,2
+
+.Rule	251 o adaptRule
+.Mine	6,3  1,2  2,2  6,2
+.Oppnt	4,2  1,2  5,2  3,2
+.Ball	6,2
+.Move	6,3  1,2  6,2  6,2
+
+.Rule	252 o adaptRule
+.Mine	6,3  1,2  2,2  6,2
+.Oppnt	4,2  2,2  5,2  3,2
+.Ball	6,2
+.Move	6,3  1,2  6,2  6,2
+
+.Rule	253 o adaptRule
+.Mine	6,3  2,2  6,2  3,3
+.Oppnt	5,2  3,1  5,3  5,4
+.Ball	6,2
+.Move	6,3  2,2  6,2  6,2
+
+.Rule	254 o adaptRule
+.Mine	6,3  2,2  6,2  3,3
+.Oppnt	5,2  4,1  5,3  5,4
+.Ball	6,2
+.Move	6,3  2,2  6,2  6,2
+
+.Rule	255 o adaptRule
+.Mine	6,3  2,2  6,2  3,3
+.Oppnt	6,3  5,2  5,3  5,4
+.Ball	6,2
+.Move	6,3  2,2  6,2  6,2
+
+.Rule	256 o adaptRule
+.Mine	2,2  6,3  6,2  2,3
+.Oppnt	5,1  4,2  4,2  5,3
+.Ball	6,2
+.Move	2,2  6,3  6,2  6,2
+
+.Rule	257 o adaptRule
+.Mine	2,2  6,3  6,2  3,3
+.Oppnt	5,1  4,3  4,2  5,2
+.Ball	6,2
+.Move	2,2  6,3  6,2  6,2
+
+.Rule	258 o adaptRule
+.Mine	2,1  6,2  6,3  3,3
+.Oppnt	6,1  2,2  5,1  5,2
+.Ball	6,2
+.Move	2,1  6,2  6,2  6,2
+
+.Rule	259 o adaptRule
+.Mine	3,2  4,2  6,3  6,2
+.Oppnt	6,1  2,2  4,1  5,2
+.Ball	6,2
+.Move	3,2  4,2  6,2  6,2
+
+.Rule	260 o adaptRule
+.Mine	6,3  2,2  6,2  3,3
+.Oppnt	5,3  4,3  5,2  6,2
+.Ball	6,2
+.Move	6,3  2,2  6,2  6,2
+
+.Rule	261 o adaptRule
+.Mine	6,3  2,2  6,1  6,2
+.Oppnt	6,3  5,3  5,2  6,2
+.Ball	6,2
+.Move	6,3  2,2  6,2  6,2
+
+.Rule	262 o adaptRule
+.Mine	3,2  4,1  6,3  6,2
+.Oppnt	6,2  4,1  3,4  6,3
+.Ball	6,2
+.Move	3,2  4,1  6,2  6,2
+
+.Rule	263 o adaptRule
+.Mine	6,3  5,1  6,2  4,2
+.Oppnt	6,2  4,1  4,4  6,3
+.Ball	6,2
+.Move	6,3  5,1  6,2  6,2
+
+.Rule	264 o adaptRule
+.Mine	3,2  5,1  6,3  6,2
+.Oppnt	6,2  5,2  5,3  6,3
+.Ball	6,2
+.Move	3,2  5,1  6,2  6,2
+
+.Rule	265 o adaptRule
+.Mine	2,2  6,3  6,2  2,4
+.Oppnt	5,1  4,3  4,1  5,3
+.Ball	6,2
+.Move	2,2  6,3  6,2  6,2
+
+.Rule	266 o adaptRule
+.Mine	2,2  6,3  6,2  2,4
+.Oppnt	5,2  3,2  4,2  4,3
+.Ball	6,2
+.Move	2,2  6,3  6,2  6,2
+
+.Rule	267 o adaptRule
+.Mine	2,2  6,3  6,2  3,3
+.Oppnt	5,3  3,2  4,2  4,3
+.Ball	6,2
+.Move	2,2  6,3  6,2  6,2
+
+.Rule	268 o adaptRule
+.Mine	2,2  6,3  6,2  3,4
+.Oppnt	5,2  3,2  4,2  4,3
+.Ball	6,2
+.Move	2,2  6,3  6,2  6,2
+
+.Rule	269 o adaptRule
+.Mine	2,2  6,3  6,2  3,3
+.Oppnt	5,3  4,3  5,2  4,3
+.Ball	6,2
+.Move	2,2  6,3  6,2  6,2
+
+.Rule	270 o adaptRule
+.Mine	2,2  6,3  6,2  3,3
+.Oppnt	5,3  4,3  5,2  5,3
+.Ball	6,2
+.Move	2,2  6,3  6,2  6,2
+
+.Rule	271 o adaptRule
+.Mine	3,1  6,3  3,2  6,2
+.Oppnt	6,1  5,3  4,1  5,2
+.Ball	6,2
+.Move	3,1  6,3  6,2  6,2
+
+.Rule	272 o adaptRule
+.Mine	4,1  6,3  3,2  6,2
+.Oppnt	6,2  5,3  4,1  5,2
+.Ball	6,2
+.Move	4,1  6,3  6,2  6,2
+
+.Rule	273 o adaptRule
+.Mine	5,1  6,3  3,2  6,2
+.Oppnt	6,2  5,3  3,2  6,3
+.Ball	6,2
+.Move	5,1  6,3  6,2  6,2
+
+.Rule	274 o adaptRule
+.Mine	5,1  6,3  4,2  6,2
+.Oppnt	6,2  5,3  4,1  6,3
+.Ball	6,2
+.Move	5,1  6,3  6,2  6,2
+
+.Rule	275 o adaptRule
+.Mine	6,2  6,3  3,2  3,3
+.Oppnt	5,1  4,2  4,1  5,2
+.Ball	6,2
+.Move	6,2  6,3  6,2  6,2
+
+.Rule	276 o adaptRule
+.Mine	4,1  6,3  6,2  3,3
+.Oppnt	6,2  5,3  5,1  5,2
+.Ball	6,2
+.Move	4,1  6,3  6,2  6,2
+
+.Rule	277 o adaptRule
+.Mine	6,2  6,3  3,2  4,3
+.Oppnt	6,2  5,3  5,1  5,2
+.Ball	6,2
+.Move	6,2  6,3  6,2  6,2
+
+.Rule	278 o adaptRule
+.Mine	6,3  6,2  3,2  3,4
+.Oppnt	5,2  5,3  4,3  6,3
+.Ball	6,2
+.Move	6,3  6,2  6,2  6,2
+
+.Rule	279 o adaptRule
+.Mine	6,3  6,2  3,2  4,4
+.Oppnt	5,2  5,3  4,3  6,3
+.Ball	6,2
+.Move	6,3  6,2  6,2  6,2
+
+.Rule	280 o adaptRule
+.Mine	6,3  5,1  3,2  6,2
+.Oppnt	5,2  5,3  5,3  6,3
+.Ball	6,2
+.Move	6,3  5,1  6,2  6,2
+
+.Rule	281 o adaptRule
+.Mine	6,2  5,1  3,2  6,3
+.Oppnt	5,2  5,3  5,3  6,3
+.Ball	6,2
+.Move	6,2  5,1  6,2  6,2
+
+.Rule	282 o adaptRule
+.Mine	3,1  3,2  6,3  6,2
+.Oppnt	6,1  3,2  5,1  5,2
+.Ball	6,2
+.Move	3,1  3,2  6,2  6,2
+
+.Rule	283 o adaptRule
+.Mine	4,2  6,2  6,3  3,3
+.Oppnt	6,1  4,2  5,1  5,2
+.Ball	6,2
+.Move	4,2  6,2  6,2  6,2
+
+.Rule	284 o adaptRule
+.Mine	4,1  6,3  6,2  3,3
+.Oppnt	6,1  4,2  5,2  5,2
+.Ball	6,2
+.Move	4,1  6,3  6,2  6,2
+
+.Rule	285 o adaptRule
+.Mine	5,1  6,3  6,2  3,3
+.Oppnt	6,2  4,3  5,2  6,3
+.Ball	6,2
+.Move	5,1  6,3  6,2  6,2
+
+.Rule	286 o adaptRule
+.Mine	4,1  6,3  6,2  3,3
+.Oppnt	6,2  4,3  5,2  6,3
+.Ball	6,2
+.Move	4,1  6,3  6,2  6,2
+
+.Rule	287 o adaptRule
+.Mine	2,2  6,3  6,2  3,3
+.Oppnt	6,2  4,4  5,2  6,3
+.Ball	6,2
+.Move	2,2  6,3  6,2  6,2
+
+.Rule	288 o adaptRule
+.Mine	3,2  6,3  6,2  3,3
+.Oppnt	6,2  4,3  5,2  6,3
+.Ball	6,2
+.Move	3,2  6,3  6,2  6,2
+
+.Rule	289 o adaptRule
+.Mine	6,2  4,1  6,3  2,4
+.Oppnt	5,1  2,3  4,1  5,2
+.Ball	6,2
+.Move	6,2  4,1  6,2  6,2
+
+.Rule	290 o adaptRule
+.Mine	3,2  4,1  6,3  6,2
+.Oppnt	6,1  3,3  5,1  5,2
+.Ball	6,2
+.Move	3,2  4,1  6,2  6,2
+
+.Rule	291 o adaptRule
+.Mine	3,2  5,1  6,3  6,2
+.Oppnt	6,2  4,3  5,2  5,2
+.Ball	6,2
+.Move	3,2  5,1  6,2  6,2
+
+.Rule	292 o adaptRule
+.Mine	3,1  5,1  6,3  6,2
+.Oppnt	6,2  5,3  4,1  6,3
+.Ball	6,2
+.Move	3,1  5,1  6,2  6,2
+
+.Rule	293 o adaptRule
+.Mine	3,2  5,1  6,3  6,2
+.Oppnt	6,2  5,3  4,1  6,3
+.Ball	6,2
+.Move	3,2  5,1  6,2  6,2
+
+.Rule	294 o adaptRule
+.Mine	3,2  5,1  6,2  6,3
+.Oppnt	5,1  5,3  4,1  6,3
+.Ball	6,2
+.Move	3,2  5,1  6,2  6,2
+
+.Rule	295 o adaptRule
+.Mine	3,2  5,1  6,2  6,3
+.Oppnt	5,1  5,3  5,2  6,3
+.Ball	6,2
+.Move	3,2  5,1  6,2  6,2
+
+.Rule	296 o adaptRule
+.Mine	3,2  6,2  5,2  6,3
+.Oppnt	6,2  5,3  4,2  6,3
+.Ball	6,2
+.Move	3,2  6,2  6,2  6,2
+
+.Rule	297 o adaptRule
+.Mine	2,2  6,2  5,2  6,3
+.Oppnt	6,2  5,3  5,2  6,3
+.Ball	6,2
+.Move	2,2  6,2  6,2  6,2
+
+.Rule	298 o adaptRule
+.Mine	2,2  6,2  6,2  6,3
+.Oppnt	6,2  5,3  5,2  6,3
+.Ball	6,2
+.Move	2,2  6,2  6,2  6,2
+
+.Rule	299 o adaptRule
+.Mine	2,2  6,2  5,1  6,3
+.Oppnt	5,2  5,3  5,1  6,3
+.Ball	6,2
+.Move	2,2  6,2  6,2  6,2
+
+.Rule	300 o adaptRule
+.Mine	2,2  6,2  5,1  6,3
+.Oppnt	5,2  5,3  6,2  6,3
+.Ball	6,2
+.Move	2,2  6,2  6,2  6,2
+
+.Rule	301 o adaptRule
+.Mine	2,2  6,2  6,2  6,3
+.Oppnt	5,2  5,3  6,2  6,3
+.Ball	6,2
+.Move	2,2  6,2  6,2  6,2
+
+.Rule	302 o adaptRule
+.Mine	5,1  6,3  3,2  6,2
+.Oppnt	5,2  4,3  3,2  5,3
+.Ball	6,2
+.Move	5,1  6,3  6,2  6,2
+
+.Rule	303 o adaptRule
+.Mine	3,2  6,3  6,2  6,2
+.Oppnt	6,2  3,3  4,2  6,3
+.Ball	6,2
+.Move	3,2  6,3  6,2  6,2
+
+.Rule	304 o adaptRule
+.Mine	4,2  6,3  3,3  6,2
+.Oppnt	6,2  3,3  4,2  6,3
+.Ball	6,2
+.Move	4,2  6,3  6,2  6,2
+
+.Rule	305 o adaptRule
+.Mine	3,2  6,3  6,2  6,2
+.Oppnt	6,2  4,3  5,1  6,3
+.Ball	6,2
+.Move	3,2  6,3  6,2  6,2
+
+.Rule	306 o adaptRule
+.Mine	2,1  3,2  6,3  6,2
+.Oppnt	6,1  2,3  5,1  5,2
+.Ball	6,2
+.Move	2,1  3,2  6,2  6,2
+
+.Rule	307 o adaptRule
+.Mine	3,1  3,2  6,3  6,2
+.Oppnt	6,1  2,3  5,1  5,2
+.Ball	6,2
+.Move	3,1  3,2  6,2  6,2
+
+.Rule	308 o adaptRule
+.Mine	4,2  3,2  6,2  6,3
+.Oppnt	6,1  3,2  5,1  5,3
+.Ball	6,2
+.Move	4,2  3,2  6,2  6,2
+
+.Rule	309 o adaptRule
+.Mine	3,1  3,2  6,2  6,3
+.Oppnt	6,1  3,3  5,1  5,2
+.Ball	6,2
+.Move	3,1  3,2  6,2  6,2
+
+.Rule	310 o adaptRule
+.Mine	4,2  3,2  6,2  6,3
+.Oppnt	6,1  4,3  5,1  5,3
+.Ball	6,2
+.Move	4,2  3,2  6,2  6,2
+
+.Rule	311 o adaptRule
+.Mine	5,1  3,2  6,3  6,2
+.Oppnt	6,2  4,3  5,2  5,3
+.Ball	6,2
+.Move	5,1  3,2  6,2  6,2
+
+.Rule	312 o adaptRule
+.Mine	2,2  6,2  5,2  6,3
+.Oppnt	5,2  4,3  4,3  6,3
+.Ball	6,2
+.Move	2,2  6,2  6,2  6,2
+
+.Rule	313 o adaptRule
+.Mine	2,2  6,2  5,1  6,3
+.Oppnt	5,1  5,3  4,3  6,3
+.Ball	6,2
+.Move	2,2  6,2  6,2  6,2
+
+.Rule	314 o adaptRule
+.Mine	2,2  6,2  6,1  6,3
+.Oppnt	5,1  5,3  4,3  6,3
+.Ball	6,2
+.Move	2,2  6,2  6,2  6,2
+
+.Rule	315 o adaptRule
+.Mine	4,1  3,3  6,3  6,2
+.Oppnt	4,1  5,3  3,2  6,3
+.Ball	6,2
+.Move	4,1  3,3  6,2  6,2
+
+.Rule	316 o adaptRule
+.Mine	5,1  3,3  6,3  6,2
+.Oppnt	5,1  5,3  4,2  6,3
+.Ball	6,2
+.Move	5,1  3,3  6,2  6,2
+
+.Rule	317 o adaptRule
+.Mine	6,2  3,3  6,3  5,3
+.Oppnt	6,1  5,3  5,2  6,3
+.Ball	6,2
+.Move	6,2  3,3  6,2  6,2
+
+.Rule	318 o adaptRule
+.Mine	2,2  6,2  5,2  6,3
+.Oppnt	5,3  2,3  3,2  3,3
+.Ball	6,2
+.Move	2,2  6,2  6,2  6,2
+
+.Rule	319 o adaptRule
+.Mine	2,2  6,2  5,2  6,3
+.Oppnt	5,3  3,3  3,2  4,3
+.Ball	6,2
+.Move	2,2  6,2  6,2  6,2
+
+.Rule	320 o adaptRule
+.Mine	2,2  6,2  6,2  6,3
+.Oppnt	5,3  3,3  4,2  4,3
+.Ball	6,2
+.Move	2,2  6,2  6,2  6,2
+
+.Rule	321 o adaptRule
+.Mine	2,2  6,2  5,2  6,3
+.Oppnt	4,3  3,3  5,2  6,3
+.Ball	6,2
+.Move	2,2  6,2  6,2  6,2
+
+.Rule	322 o adaptRule
+.Mine	2,2  6,3  5,2  6,2
+.Oppnt	5,3  4,3  5,2  6,3
+.Ball	6,2
+.Move	2,2  6,3  6,2  6,2
+
+.Rule	323 o adaptRule
+.Mine	2,2  6,2  4,2  6,3
+.Oppnt	5,3  1,3  3,1  3,3
+.Ball	6,2
+.Move	2,2  6,2  6,2  6,2
+
+.Rule	324 o adaptRule
+.Mine	2,2  6,2  5,1  6,3
+.Oppnt	5,2  2,3  4,1  3,3
+.Ball	6,2
+.Move	2,2  6,2  6,2  6,2
+
+.Rule	325 o adaptRule
+.Mine	2,2  6,2  5,1  6,3
+.Oppnt	5,2  2,4  4,1  3,3
+.Ball	6,2
+.Move	2,2  6,2  6,2  6,2
+
+.Rule	326 o adaptRule
+.Mine	2,2  6,2  5,2  6,3
+.Oppnt	5,2  4,4  4,3  4,3
+.Ball	6,2
+.Move	2,2  6,2  6,2  6,2
+
+.Rule	327 o adaptRule
+.Mine	2,2  6,2  5,2  6,3
+.Oppnt	5,3  4,4  4,3  4,3
+.Ball	6,2
+.Move	2,2  6,2  6,2  6,2
+
+.Rule	328 o adaptRule
+.Mine	2,2  6,2  5,2  6,3
+.Oppnt	5,2  4,4  5,3  4,3
+.Ball	6,2
+.Move	2,2  6,2  6,2  6,2
+
+.Rule	329 o adaptRule
+.Mine	1,2  6,2  3,2  6,3
+.Oppnt	4,2  2,2  2,1  2,3
+.Ball	6,2
+.Move	1,2  6,2  6,2  6,2
+
+.Rule	330 o adaptRule
+.Mine	1,2  6,3  6,2  1,3
+.Oppnt	4,2  2,2  2,1  2,3
+.Ball	6,2
+.Move	1,2  6,3  6,2  6,2
+
+.Rule	331 o adaptRule
+.Mine	1,2  6,3  6,2  1,3
+.Oppnt	4,3  2,2  2,1  2,3
+.Ball	6,2
+.Move	1,2  6,3  6,2  6,2
+
+.Rule	332 o adaptRule
+.Mine	3,1  1,3  6,3  6,2
+.Oppnt	5,3  3,1  1,2  3,3
+.Ball	6,2
+.Move	3,1  1,3  6,2  6,2
+
+.Rule	333 o adaptRule
+.Mine	6,2  2,3  6,3  3,2
+.Oppnt	5,3  4,2  2,2  3,3
+.Ball	6,2
+.Move	6,2  2,3  6,2  6,2
+
+.Rule	334 o adaptRule
+.Mine	6,2  3,3  6,3  3,2
+.Oppnt	5,3  5,2  2,2  4,2
+.Ball	6,2
+.Move	6,2  3,3  6,2  6,2
+
+.Rule	335 o adaptRule
+.Mine	2,2  6,3  6,2  4,2
+.Oppnt	6,2  4,3  5,2  6,3
+.Ball	6,2
+.Move	2,2  6,3  6,2  6,2
+
+.Rule	336 o adaptRule
+.Mine	2,1  6,2  2,2  6,3
+.Oppnt	4,2  2,2  2,1  3,2
+.Ball	6,2
+.Move	2,1  6,2  6,2  6,2
+
+.Rule	337 o adaptRule
+.Mine	6,3  2,3  2,2  6,2
+.Oppnt	4,2  2,2  3,1  3,2
+.Ball	6,2
+.Move	6,3  2,3  6,2  6,2
+
+.Rule	338 o adaptRule
+.Mine	6,3  2,3  2,2  6,2
+.Oppnt	5,1  2,2  2,1  3,3
+.Ball	6,2
+.Move	6,3  2,3  6,2  6,2

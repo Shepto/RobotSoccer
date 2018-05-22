@@ -1,0 +1,14 @@
+C:\Users\Sebastián\Desktop\StrategiesDLL\StrategiesDLL\bin\Debug\StrategiesDLL.dll
+C:\Users\Sebastián\Desktop\StrategiesDLL\StrategiesDLL\bin\Debug\StrategiesDLL.pdb
+C:\Users\Sebastián\Desktop\StrategiesDLL\StrategiesDLL\bin\Debug\Core.dll
+C:\Users\Sebastián\Desktop\StrategiesDLL\StrategiesDLL\bin\Debug\Core.pdb
+C:\Users\Sebastián\Desktop\FooProject\Assets\DLL\StrategiesDLL.dll
+C:\Users\Sebastián\Desktop\FooProject\Assets\DLL\StrategiesDLL.pdb
+C:\Users\Sebastián\Desktop\StrategiesDLL\StrategiesDLL\obj\Debug\StrategiesDLL.csprojResolveAssemblyReference.cache
+C:\Users\Sebastián\Desktop\StrategiesDLL\StrategiesDLL\obj\Debug\StrategiesDLL.dll
+C:\Users\Sebastián\Desktop\StrategiesDLL\StrategiesDLL\obj\Debug\StrategiesDLL.pdb
+C:\Users\Sebastián\Documents\SCHULE\Schule\Bc\RobotSoccer_Unity5.0.4_v2\FooProject\Assets\DLL\StrategiesDLL.dll
+C:\Users\Sebastián\Documents\SCHULE\Schule\Bc\RobotSoccer_Unity5.0.4_v2\FooProject\Assets\DLL\StrategiesDLL.pdb
+C:\Users\Sebastián\Documents\SCHULE\Schule\Bc\RobotSoccer_Unity5.0.4_v2\CoreStrategyTactic\StrategiesDLL\obj\Debug\StrategiesDLL.csprojResolveAssemblyReference.cache
+C:\Users\Sebastián\Documents\SCHULE\Schule\Bc\RobotSoccer_Unity5.0.4_v2\CoreStrategyTactic\StrategiesDLL\obj\Debug\StrategiesDLL.dll
+C:\Users\Sebastián\Documents\SCHULE\Schule\Bc\RobotSoccer_Unity5.0.4_v2\CoreStrategyTactic\StrategiesDLL\obj\Debug\StrategiesDLL.pdb

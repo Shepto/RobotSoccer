@@ -1,0 +1,10 @@
+C:\Users\Sebastián\Documents\SCHULE\Schule\Bc\FooProject\Assets\DLL\RightStrategiesDLL.dll
+C:\Users\Sebastián\Documents\SCHULE\Schule\Bc\FooProject\Assets\DLL\RightStrategiesDLL.pdb
+C:\Users\Sebastián\Documents\SCHULE\Schule\Bc\RobotSoccer_Unity5.0.4_v2\RightStrategiesDLL\obj\Debug\RightStrategiesDLL.csprojResolveAssemblyReference.cache
+C:\Users\Sebastián\Documents\SCHULE\Schule\Bc\RobotSoccer_Unity5.0.4_v2\RightStrategiesDLL\obj\Debug\RightStrategiesDLL.dll
+C:\Users\Sebastián\Documents\SCHULE\Schule\Bc\RobotSoccer_Unity5.0.4_v2\RightStrategiesDLL\obj\Debug\RightStrategiesDLL.pdb
+C:\Users\Sebastián\Documents\SCHULE\Schule\Bc\RobotSoccer_Unity5.0.4_v2\FooProject\Assets\DLL\RightStrategiesDLL.dll
+C:\Users\Sebastián\Documents\SCHULE\Schule\Bc\RobotSoccer_Unity5.0.4_v2\FooProject\Assets\DLL\RightStrategiesDLL.pdb
+C:\Users\Sebastián\Documents\SCHULE\Schule\Bc\RobotSoccer_Unity5.0.4_v2\CoreStrategyTactic\RightStrategiesDLL\obj\Debug\RightStrategiesDLL.csprojResolveAssemblyReference.cache
+C:\Users\Sebastián\Documents\SCHULE\Schule\Bc\RobotSoccer_Unity5.0.4_v2\CoreStrategyTactic\RightStrategiesDLL\obj\Debug\RightStrategiesDLL.dll
+C:\Users\Sebastián\Documents\SCHULE\Schule\Bc\RobotSoccer_Unity5.0.4_v2\CoreStrategyTactic\RightStrategiesDLL\obj\Debug\RightStrategiesDLL.pdb

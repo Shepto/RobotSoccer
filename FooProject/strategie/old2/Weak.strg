@@ -1,0 +1,24 @@
+.Strategy		"Weak"
+.Algorithm		"Algorithm"
+.Author			"Author"
+.Date			"12.3.2014"
+.Size			6,4
+.AttackerMin		1
+.RuleException		1
+.PriorityMine		70 70 70 70
+.PriorityMineD		70 70 70 70
+.PriorityOpponent	70 70 70 70
+.PriorityOpponentD	70 70 70 70
+.PriorityBall		70
+
+.Rule	1 d Name
+.Mine	3,2  3,3  2,1  2,4
+.Oppnt	4,2  4,3  5,1  5,4
+.Ball	4,3
+.Move	5,1  5,1  5,1  5,1
+
+.Rule	2 d Name
+.Mine	3,2  3,3  2,1  1,4
+.Oppnt	4,2  4,3  5,1  5,4
+.Ball	4,2
+.Move	5,1  5,1  5,1  5,1

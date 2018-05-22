@@ -1,0 +1,26 @@
+C:\Users\Buraq\Documents\Unity\FooProject\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+C:\Users\Buraq\Documents\Unity\FooProject\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\Buraq\Documents\Unity\FooProject\Temp\bin\Debug\Assembly-UnityScript-firstpass.dll
+C:\Users\Buraq\Documents\Unity\FooProject\Temp\bin\Debug\Pathfinding.Ionic.Zip.Reduced.dll
+C:\Users\Buraq\Documents\Unity\FooProject\Temp\bin\Debug\Pathfinding.JsonFx.dll
+C:\Users\Buraq\Documents\Unity\FooProject\Temp\bin\Debug\UnityEditor.Android.Extensions.dll
+C:\Users\Buraq\Documents\Unity\FooProject\Temp\bin\Debug\UnityEditor.BB10.Extensions.dll
+C:\Users\Buraq\Documents\Unity\FooProject\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Buraq\Documents\Unity\FooProject\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\Users\Buraq\Documents\Unity\FooProject\Temp\bin\Debug\UnityEditor.iOS.Extensions.dll
+C:\Users\Buraq\Documents\Unity\FooProject\Temp\bin\Debug\UnityEditor.Metro.Extensions.dll
+C:\Users\Buraq\Documents\Unity\FooProject\Temp\bin\Debug\UnityEditor.WP8.Extensions.dll
+C:\Users\Buraq\Documents\Unity\FooProject\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Buraq\Documents\Unity\FooProject\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Buraq\Documents\Unity\FooProject\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Buraq\Documents\Unity\FooProject\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Buraq\Documents\Unity\FooProject\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Buraq\Documents\Unity\FooProject\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Buraq\Documents\Unity\FooProject\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Buraq\Documents\Unity\FooProject\obj\Debug\Assembly-CSharp-Editor-vs.csprojResolveAssemblyReference.cache
+C:\Users\Buraq\Documents\Unity\FooProject\obj\Debug\Assembly-CSharp-Editor.dll
+C:\Users\Buraq\Documents\Unity\FooProject\obj\Debug\Assembly-CSharp-Editor.pdb
+C:\VŠB-TUO\! Articles\! CISIM2015\RobotSoccerSimulator\CISIM2014_backup\Unity Projects\RobotSoccer\FooProject\obj\Debug\Assembly-CSharp-Editor-vs.csprojResolveAssemblyReference.cache
+C:\VŠB-TUO\! Articles\! CISIM2015\RobotSoccerSimulator\CISIM2014_backup\Unity Projects\RobotSoccer\FooProject\obj\Debug\Assembly-CSharp-Editor.dll
+C:\VŠB-TUO\! Articles\! CISIM2015\RobotSoccerSimulator\CISIM2014_backup\Unity Projects\RobotSoccer\FooProject\obj\Debug\Assembly-CSharp-Editor.pdb
+C:\RobotSoccer_Unity5.0.4\FooProject\obj\Debug\Assembly-CSharp-Editor-vs.csprojResolveAssemblyReference.cache

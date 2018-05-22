@@ -1,0 +1,170 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using Core;
+using RobotSoccerSimulator.StrategyGenerator;
+
+namespace StrategyLibrary
+{
+    // trida definujici strategii pro leveho hrace
+    public class LeftPlayerStrategy : Strategy
+    {
+        
+        GridRule currentRule;   // aktualne pouzivane pravidlo
+        int[] ruleIndex;        // mapovani mezi pravidlem a roboty - rika, ktery robot ma pro dane pravidlo jaky index (tedy na jakou pozici v poli se mapuje)
+
+        TacticChooser tactic;   // taktiky
+
+       
+        public GridRule CurrentRule
+        {
+            get
+            {
+                return currentRule;
+            }
+        }
+        public LeftPlayerStrategy(GameSetting gameSetting)
+            : base(gameSetting)
+        {
+            //Lucka - konstruktor kvuli nastaveni velikosti hraciho pole
+        }
+        public LeftPlayerStrategy(GameSetting gameSetting, String file)
+            : base(gameSetting)
+        {
+            gStrategy = new GridStrategy(file, false);
+            tactic = new TacticChooser(false, gameSetting);
+            ruleIndex = new int[4];
+        }
+
+        // tik strategie urcujici co se ma pri kazdem kroku vykonat
+        public override void TickStrategy(Storage storage)
+        {
+            SetGoalkeeperStrategy(storage.MyRobots[gameSetting.NUMBER_OF_ROBOTS - 1], storage);
+
+            
+
+            // strategie
+            if (RobotsInDesiredGrid(storage) >= gStrategy.RuleException)
+                currentRule = FindBestRule(ref ruleIndex, storage);
+                
+
+            if (currentRule != null)
+                for (int i = 0; i < gameSetting.NUMBER_OF_ROBOTS - 1; i++)
+                    storage.MyRobots[ruleIndex[i]].PositionMove = gStrategy.GridToReal(currentRule.Move[i], gameSetting);
+
+
+            // taktiky
+            tactic.chooseTactic(storage);
+
+
+            //TACTIC if (currentRule != null)
+            //{
+            //    for (int i = 0; i < gameSetting.NUMBER_OF_ROBOTS - 1; i++)
+            //    {
+            //        if (!storage.MyRobots[ruleIndex[i]].tactic &&
+            //            gStrategy.RealToGrid(storage.MyRobots[ruleIndex[i]].Position) != currentRule.Move[i]) //najdeš li taktiku pro robata a stoji jinde než by měl
+            //        {
+#warning poslani robota na pozice taktiky se udela v TacticChosser, kdy se zavola vybranaStr.doTactic(ref storage);
+#warning o GoTo se postara simulator, neprislusi taktikam
+            //            storage.MyRobots[ruleIndex[i]].GoTo(storage.MyRobots[ruleIndex[i]].Strat_pos); //Strat_pos nahradit .PositionMove
+            //        }
+            //    }
+            //}
+        }
+
+        //################################################################################################################################################
+
+        #region funkce pro strategie
+
+        // funkce, ktera podle daneho algoritmu najde nejlepsi (nejvyhodnejsi) pravidlo a toto vrti soucasne s mapovacim indexem pro roboty
+        private GridRule FindBestRule(ref int[] perm, Storage storage)
+        {
+            GridRule bestRule = null;
+            int[][] indexes = { new int[] { 1, 2, 3, 0 }, new int[] { 1, 2, 0, 3 }, new int[] { 1, 3, 2, 0 }, new int[] { 1, 3, 0, 2 }, new int[] { 1, 0, 2, 3 }, new int[] { 1, 0, 3, 2 }, new int[] { 2, 1, 3, 0 }, new int[] { 2, 1, 0, 3 }, new int[] { 2, 3, 1, 0 }, new int[] { 2, 3, 0, 1 }, new int[] { 2, 0, 1, 3 }, new int[] { 2, 0, 3, 1 }, new int[] { 3, 1, 2, 0 }, new int[] { 3, 1, 0, 2 }, new int[] { 3, 2, 1, 0 }, new int[] { 3, 2, 0, 1 }, new int[] { 3, 0, 1, 2 }, new int[] { 3, 0, 2, 1 }, new int[] { 0, 1, 2, 3 }, new int[] { 0, 1, 3, 2 }, new int[] { 0, 2, 1, 3 }, new int[] { 0, 2, 3, 1 }, new int[] { 0, 3, 1, 2 }, new int[] { 0, 3, 2, 1 } };
+            double min = double.MaxValue;
+            foreach (GridRule rule in gStrategy.Rules)
+            {
+                double ballRuleSize = gStrategy.GridToReal(rule.Ball, gameSetting).DistanceFrom(storage.Ball.Position) * ((double)gStrategy.PriorityBall / 100);
+                double oppRuleSize = double.MaxValue;
+                foreach (int[] i in indexes)
+                {
+                    int[] p = (rule.Type == GridRule.RuleType.Offense) ? gStrategy.PriorityOpponent : gStrategy.PriorityOpponentD;
+                    double size = gStrategy.GridToReal(rule.Oppnt[0], gameSetting).DistanceFrom(storage.OppRobots[i[0]].Position) * ((double)p[i[0]] / 100) + gStrategy.GridToReal(rule.Oppnt[1], gameSetting).DistanceFrom(storage.OppRobots[i[1]].Position) * ((double)p[i[1]] / 100) + gStrategy.GridToReal(rule.Oppnt[2], gameSetting).DistanceFrom(storage.OppRobots[i[2]].Position) * ((double)p[i[2]] / 100) + gStrategy.GridToReal(rule.Oppnt[3], gameSetting).DistanceFrom(storage.OppRobots[i[3]].Position) * ((double)p[i[3]] / 100);
+                    if (size < oppRuleSize)
+                        oppRuleSize = size;
+                }
+                foreach (int[] i in indexes)
+                {
+                    int[] p = (rule.Type == GridRule.RuleType.Offense) ? gStrategy.PriorityMine : gStrategy.PriorityMineD;
+                    double myRuleSize = gStrategy.GridToReal(rule.Mine[0], gameSetting).DistanceFrom(storage.MyRobots[i[0]].Position) * ((double)p[i[0]] / 100) + gStrategy.GridToReal(rule.Mine[1], gameSetting).DistanceFrom(storage.MyRobots[i[1]].Position) * ((double)p[i[1]] / 100) + gStrategy.GridToReal(rule.Mine[2], gameSetting).DistanceFrom(storage.MyRobots[i[2]].Position) * ((double)p[i[2]] / 100) + gStrategy.GridToReal(rule.Mine[3], gameSetting).DistanceFrom(storage.MyRobots[i[3]].Position) * ((double)p[i[3]] / 100);
+                    if (ballRuleSize + oppRuleSize + myRuleSize < min)
+                    {
+                        min = ballRuleSize + oppRuleSize + myRuleSize;
+                        bestRule = rule;
+                        perm = i;
+                    }
+                }
+            }
+            return bestRule;
+        }
+
+        // vraci pocet robotu, kteri jsou jiz na pozici, na kterou je dane pravidlo poslalo
+        private int RobotsInDesiredGrid(Storage storage)
+        {
+            if (currentRule == null)
+                return Int32.MaxValue;
+            int count = 0;
+            for (int i = 0; i < 4; i++)
+            {
+                if (gStrategy.RealToGrid(storage.MyRobots[ruleIndex[i]].Position, gameSetting) == currentRule.Move[i])
+                {
+                    //TACTIC if (!storage.MyRobots[ruleIndex[i]].tactic)
+                    //    storage.MyRobots[ruleIndex[i]].stop();
+                    count++;
+                }
+            }
+            return count;
+        }
+
+        #endregion
+
+        #region goalkeeper & attacker strategy
+
+        // funkce, ktera vrati toho robota, ktery byl funkci vybran jako nejvhodnejsi utocnik
+        private Robot ChooseAttacker(Storage storage)
+        {
+            Robot attacker = null;
+            double min = double.MaxValue;
+
+            foreach (Robot r in storage.MyRobots)
+            {
+                if (r.Position.DistanceFrom(storage.Ball.Position) < min && r != storage.MyRobots[4] && r.Position.DistanceFrom(storage.Ball.Position) < gStrategy.AttackerMin * ((gameSetting.AREA_X + gameSetting.AREA_NET_X * 2) / gStrategy.Size.X))
+                {
+                    attacker = r;
+                    min = r.Position.DistanceFrom(storage.Ball.Position);
+                }
+            }
+            return attacker;
+        }
+
+        // strategie, s jakou dany utocnik utoci
+        private void SetAttackerStrategy(Robot attacker, Storage storage)
+        {
+            if (attacker != null)
+            {
+                attacker.PositionMove.X=storage.Ball.Position.X;
+                attacker.PositionMove.Y = storage.Ball.Position.Y;
+            }
+        }
+
+        // strategie s jakou zvoleny brankar chyta v brane
+        private void SetGoalkeeperStrategy(Robot goalkeeper, Storage storage)
+        {
+            double b_y = (storage.Ball.Position.Y < -gameSetting.AREA_NET_Y / 2) ? -gameSetting.AREA_NET_Y / 2 : (storage.Ball.Position.Y > gameSetting.AREA_NET_Y / 2) ? gameSetting.AREA_NET_Y / 2 : storage.Ball.Position.Y;
+            goalkeeper.PositionMove.X = -gameSetting.AREA_X / 2 + gameSetting.ROBOT_EDGE_SIZE / 2;
+            goalkeeper.PositionMove.Y=b_y;
+        }
+
+        #endregion
+    }
+}

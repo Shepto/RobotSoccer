@@ -12,11 +12,15 @@
 ## Basic manual
 
 How to download and run this robot soccer simulator:
-* Download Unity version 5.0.4 and install – other versions are not supported!!!.
-* Download this project from github
-* Launch Unity and in launcher press „Open Other” button
-* Find downloaded file and select FooProject folder and load it to Unity
-* Unity will start and just simply play it by clicking on play button on upper center bar
+* Download zip file [Robot Soccer Simulator Standalone](https://github.com/It4innovations/RobotSoccer/blob/master/Robot%20Soccer%20Simulator%20Standalone.zip) from github 
+* Unzip and run Simulator.exe
+* choose resolution (for better experience play in windowed mode) and hit play button
+* continue to user interface manual down below
+
+Important folders and files inside zip file:
+* DLL folder - contains dll files with definitions of strategies and tactics (more about them in advanced manual)
+* strategie folder - contains .strg files which are described down below
+* Simulator.exe - main application
 
 ### User interface
 
